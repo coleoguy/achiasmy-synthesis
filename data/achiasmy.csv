@@ -1,283 +1,267 @@
-Record Column,Phyla,Class,Order,Genus species,Ploidy,N (haploid autosome),Achiasmy Sex,Heterogametic Sex,Male Frequency/bivalent,Female Frequency/bivalent,Notes,Title Name,1st Author,Year,Journal,Page Number
-1,Mollusca,Gastropoda,Stylommatophora,Mesostoma sp,2,5,Female,unknown,1,N/A,"Duplicate
-Haploid Number Enetered --> 2n = 10; **NEED CLARIFICATION
-paper says that they are hermaphrodites and do not contain a sex system","Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela)",H. Oakley,1982,Chromosoma,311-322
-2,Mollusca,Gastropoda,Stylommatophora,Mesostoma sp,2,5,Female,unknown,1,N/A,"could not find article
-found article and data is on line 145
-Haploid Number Entered --> 2n = 10, **NEED CLARIFICATION","Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela)",H. Oakley,1982,Chromosoma,133-147
-3,Mollusca,Bivalvia,Sphaeriida,Sphaerium corneum,2,15,Both,unknown,N/A,N/A,"Contain B chromosomes that are not essential to the organism, as well as vary between cells. This is the source of the recombination
-haploid number complete --> n = 15aa + XO, 2n = 11",Structure and meiotic behaviour of B chromosomes in Sphaerium corneum/S. nucleus complex (Bivalvia: Sphaeriidae).,T. Kořínková,2011,Genetica,155-165
-4,Mollusca,Bivalvia,Sphaeriida,Sphaerium nucleus,2,15,Both,unknown,N/A,N/A,"haploid number complete  --> n = 15aa + XO, 2n = 11",Structure and meiotic behaviour of B chromosomes in Sphaerium corneum/S. nucleus complex (Bivalvia: Sphaeriidae).,T. Kořínková,2011,Genetica,155-165
-5,Annelida,Clitellata,Enchytraeida,Achaeta bulbosa,,150-160,Both,unknown,N/A,N/A,5-36 used table 1 to get the information,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,2009,Hereditas,387-450
-6,Annelida,Clitellata,Enchytraeida,Enchytronia parva,,24,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-7,Annelida,Clitellata,Enchytraeida,Fridericia bulbosa,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-8,Annelida,Clitellata,Enchytraeida,Fridericia bulboides,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-9,Annelida,Clitellata,Enchytraeida,Fridericia callosa,,32,Both,unknown,N/A, ,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-10,Annelida,Clitellata,Enchytraeida,Fridericia striata,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-11,Annelida,Clitellata,Enchytraeida,Fridericia paroniana,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-12,Annelida,Clitellata,Enchytraeida,Fridericia bisetosa,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-13,Annelida,Clitellata,Enchytraeida,Fridericia bisetosa,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-14,Annelida,Clitellata,Enchytraeida,Fridericia maculata,,26,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-15,Annelida,Clitellata,Enchytraeida,Fridericia maculata,,45,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-16,Annelida,Clitellata,Enchytraeida,Fridericia leydigi,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-17,Annelida,Clitellata,Enchytraeida,Fridericia leydigi,,60,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-18,Annelida,Clitellata,Enchytraeida,Fridericia connata,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-19,Annelida,Clitellata,Enchytraeida,Fridericia connata,,56,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-20,Annelida,Clitellata,Enchytraeida,Fridericia connata,,64,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-21,Annelida,Clitellata,Enchytraeida,Fridericia perrieri,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-22,Annelida,Clitellata,Enchytraeida,Fridericia galba,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-23,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,40,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-24,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,56,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-25,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,80-90,Both,unknown,N/A,N/A,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-26,Annelida,Clitellata,Enchytraeida,Fridericia gracilis,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-27,Annelida,Clitellata,Enchytraeida,Fridericia hegemon,,32,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-28,Annelida,Clitellata,Enchytraeida,Buchholzia appendiculata,,18,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-29,Annelida,Clitellata,Enchytraeida,Buchholzia fallax,,18-19,Both,unknown,N/A,N/A,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-30,Annelida,Clitellata,Enchytraeida,Buchholzia fallax,,36-38,Both,unknown,N/A,N/A,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-31,Annelida,Clitellata,Enchytraeida,Hermifridericia parva,,28,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-32,Annelida,Clitellata,Enchytraeida,Hermifridericia parva,,42,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-33,Annelida,Clitellata,Enchytraeida,Henlea perpusilla,,17,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-34,Annelida,Clitellata,Enchytraeida,Henlea perpusilla,,34,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-35,Annelida,Clitellata,Enchytraeida,Marionina subterroonea,,18,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-36,Annelida,Clitellata,Enchytraeida,Marionina sjaelandica,,18,Both,unknown,N/A,N/A,Haploid Number Complete,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
-37,Tardigrada,Eutardigrada,Parachaela,Richtersius coronifer,2,6,Male,unknown,N/A,1,"they are acrocentric which means the centromere is towards the end of the chromosome
-Haploid Number Entered --> 2n = 12, **NEED CLARIFICATION","First evidence of achiasmatic male meiosis in the water bears Richtersius coronifer and Macrobiotus richtersi (Eutardigrada, Macrobiotidae).",T. Altiero,2003,Hereditas,116-120
-38,Tardigrada,Eutardigrada,Parachaela,Macrobiotus richtersi,2,6,Male,unknown,N/A,1,"Are classified as tardigrades which mean they do not show evidence of heterochromosomes
-Haploid Number Entered --> 2n = 12, **NEED CLARIFICATION","First evidence of achiasmatic male meiosis in the water bears Richtersius coronifer and Macrobiotus richtersi (Eutardigrada, Macrobiotidae).",T. Altiero,2003,Hereditas,116-120
-39,Arthropoda,Arachnida,Acariformes,Eylais sp,,,Male,Male,N/A,1,Could not find article,ZUR KARYOLOGIE DER HYDI~ACHNELLEN (ACARINA),H. Keyl,1957,Chromosoma 8,719-729
-40,Arthropoda,Arachnida,Trombidiformes,Hydrodroma sp,,,Male,unknown,N/A,1,could not find article,ZUR KARYOLOGIE DER HYDI~ACHNELLEN (ACARINA),H. Keyl,1957,Chromosoma 8,719-729
-41,Arthropoda,Arachnida,Araneae,Dysdera crocota,2,5,Male,Male,N/A,1,"Paper references to multiple papers with other achiasmatic species, see highlighted section","Cytogenetic heterogeneity in common haplogyne spiders from argentina (arachnida, araneae)",S. Gil,2002,Journal of Arachnology,131-1372002
-42,Arthropoda,Arachnida,Scorpiones,Heterometrus palamnaeus,2,30,Male,unknown,N/A,1,,Absence of chiasmata and formation of a complex chromosomal body in the spermatogenesis of the scorpion palamnaeus longimanus,M. Srivastava,1961,Caryologia 14,63-77
-43,Arthropoda,Arachnida,Scorpiones,Tityus bahiensis,3,6,Male,unknown,N/A,1,,CHROMOSOMES WITH TWO SPINDLE ATTACHMENTS*,P. Toledo,1941,The Journal of Heredity,423-426
-44,Arthropoda,Arachnida,Scorpiones,Androctonus australis,2,12,Male,unknown,N/A,1,"they karyotyped 4 scorpion populations, but I was unable to find the papers that discuss the fact that they are achiasmatic, ",Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
-45,Arthropoda,Arachnida,Scorpiones,Androctonus bicolor,2,12,Male,unknown,N/A,1,Using the paper. I found a paper by C. Shanahan that will be good to look at after inputing all other data. This looks at the synaptonemal complex in scorpions,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
-46,Arthropoda,Arachnida,Scorpiones,Androctonus amoreuxi,2,12,Male,unknown,N/A,1,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
-47,Arthropoda,Arachnida,Scorpiones,Androctonus crassicauda,2,12,Male,unknown,N/A,1,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
-48,Arthropoda,Arachnida,Scorpiones,Anateris balzanii,2,7,Male,unknown,N/A,1,Using the paper. I found a paper by M. Schneider that will be good to look at after inputing all other data. This is a series of cytogenic analysis of scorpions,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-49,Arthropoda,Arachnida,Scorpiones,Rhopalurus agamemnon,2,14,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-50,Arthropoda,Arachnida,Scorpiones,Rhopalurus rochai,2,14,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-51,Arthropoda,Arachnida,Scorpiones,Tityus maranhensis,2,10,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-52,Arthropoda,Arachnida,Scorpiones,Tityus paraguayensis,2,8,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-53,Arthropoda,Arachnida,Scorpiones,Tityus bahiensis,2,3,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-54,Arthropoda,Arachnida,Scorpiones,Tityus confluens,2,6,Male,unknown,N/A,1,2n=13 (1 large + 12 medium/small),High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-55,Arthropoda,Arachnida,Scorpiones,Tityus costatus,2,8,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-56,Arthropoda,Arachnida,Scorpiones,Tityus fasciolatus,2,7,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-57,Arthropoda,Arachnida,Scorpiones,Tityus  martinpaechi,2,3,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-58,Arthropoda,Arachnida,Scorpiones,Tityus stigmurus,2,8,Male,unknown,N/A,1,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res,121-136
-59,Arthropoda,Arachnida,Scorpiones,Chthonius diophthalmus,2,16,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-60,Arthropoda,Arachnida,Scorpiones,Chthonius litoralis,2,17,Male,unknown,N/A,1,16 pairs of acrocentric and 1 pair of submetacentric,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-61,Arthropoda,Arachnida,Scorpiones,Chthonius orthodactylus,2,16,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-62,Arthropoda,Arachnida,Scorpiones,Chthonius tenuis,2,17,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-63,Arthropoda,Arachnida,Scorpiones,Chthonius fucimanus,2,17,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-64,Arthropoda,Arachnida,Scorpiones,Chthonius tetrachelatus,2,17,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-65,Arthropoda,Arachnida,Scorpiones,Chthonius sp1,2,14,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-66,Arthropoda,Arachnida,Scorpiones,Chthonius sp2,2,10,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-67,Arthropoda,Arachnida,Scorpiones,Mundochtonius styriacus,2,18,Male,unknown,N/A,1,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
-68,Arthropoda,Crustacea,Copepoda,Ectocyclops sp,,,Female,unknown,1,N/A,Could not find article in English; only german,Weibliche heterogametie bei copepoden,W. Beermann,1953,Chromosoma 6,381-396
-69,Arthropoda,Crustacea,Copepoda,Mesocyclops edax,2,14,Female,unknown,1,N/A,,"Achiasmatic meiosis and complex heterozygosity in female cyclopoid copepods (Copepoda, Crustacea)",C. Chinnappa,1979,Chromosoma 71,227-236
-70,Arthropoda,Crustacea,Copepoda,Tigriopus californicus,2,24,Female,unknown,1,N/A,,"The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda), Chromosoma 13",A. Ar-Rushdi,1963,Chromosoma 13,526-539
-71,Arthropoda,Crustacea,Copepoda,Tigriopus brevicornis,2,24,Female,unknown,1,N/A,,"The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda), Chromosoma 14",A. Ar-Rushdi,1963,Chromosoma 13,526-539
-72,Arthropoda,Crustacea,Copepoda,Tigriopus japonicus,2,24,Female,unknown,1,N/A,,"The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda), Chromosoma 15",A. Ar-Rushdi,1963,Chromosoma 13,526-539
-73,Arthropoda,Insecta,Orthoptera,Whitea sp,2,19,Male,Male,N/A,1,"Trouble finding the genus between the 2 subfamilies
-Thericles subfamily
-little crossing over in females as well",Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers,M. White,1965,Chromosoma 16,271-307
-74,Arthropoda,Insecta,Mantodea,Whitea sp,2,21,Male,Male,N/A,1,euschmidtiinae subfamily,Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers,M. White,1965,Chromosoma 16,271-307
-75,Arthropoda,Insecta,Mantodea,Callimantis antillarum,2,,Male,Male,N/A,1,,"A new and anomalous type of meiosis in a mantid, Callimantis antillarum saussure",M. White,1938,Proc. Roy. Soc. B 125,516-523
-76,Arthropoda,Insecta,Mantodea,Mantoida schraderi,2,37-38,Male,Male,N/A,1,,The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.,S. Hughes-Schrader,1950,Chrromosoma 4,1-55
-77,Arthropoda,Insecta,Mantodea,Pseudomiopteryx infuscata,2,18,Male,Male,N/A,1,-,The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.,S. Hughes-Schrader,1950,Chrromosoma 5,1-56
-78,Arthropoda,Insecta,Mantodea,Humbertiella indica,2,30,Male,Male,N/A,1,,On the chromosome morphology of humbertiella indica saussure,M. Dutt,1954,Caryologia 6,117-123
-79,Arthropoda,Insecta,Mantodea,Bolbe pallida,2,25,Male,Male,N/A,1,,Sex chromosomes and meiotic mechanisms in some African and Australian mantids.,M. White,1965,Chromosoma 16,521-547
-80,Arthropoda,Insecta,Mantodea,Harpagomantis sp,2,25,Male,Male,N/A,1,,Sex chromosomes and meiotic mechanisms in some African and Australian mantids.,M. White,1965,Chromosoma 17,521-548
-81,Arthropoda,Insecta,Hemiptera,Protortonia sp,,,Male,Male,N/A,1,Could not find article,,F. Schrader,1931,Z. Wiss. Zool. 138,386-408
-82,Arthropoda,Insecta,Hemiptera,Palatoria oleae,2,8,Male,Male,N/A,1,,"A modified Comstockiella chromosome system in the olive scale insect, Parlatoria oleae (Coccoidea: Diaspididae).",U. Nur,1965,Chromosoma 17,104-120
-83,Arthropoda,Insecta,Hemiptera,Saldula orthochila,2,36,Male,Male,N/A,1,,"Achiasmatic male meiosis in two species of Saldula (Saldidae, Hemiptera).",S. Nookkala,1983,Hereditas 99,31-35
-84,Arthropoda,Insecta,Hemiptera,Saldula saltatoria,2,38,Male,Male,N/A,1,,"Achiasmatic male meiosis in two species of Saldula (Saldidae, Hemiptera).",S. Nookkala,1983,Hereditas 99,31-36
-85,Arthropoda,Insecta,Hemiptera,Nabis brevis,2,18,Male,Male,N/A,1,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nookkala,1984,Heredias 101,31-35
-86,Arthropoda,Insecta,Hemiptera,Nabis flavomarginatus,2,18,Male,Male,N/A,1,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nookkala,1984,Heredias 101,31-35
-87,Arthropoda,Insecta,Hemiptera,Nabis limbatus,2,18,Male,Male,N/A,1,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nookkala,1984,Heredias 101,31-35
-88,Arthropoda,Insecta,Hemiptera,Capsus ater,2,32,Male,Male,N/A,1,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nookkala,1986,Heredias 105,193-197
-89,Arthropoda,Insecta,Hemiptera,Calocoris quadripunctatus,,,Male,Male,N/A,1,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nookkala,1986,Heredias 105,193-198
-90,Arthropoda,Insecta,Hemiptera,Philophorus cinnamopterus,2,17,Male,Male,N/A,1,"it says n=15A+XY, but the image shows paired chromosomes. How should i Note this?",Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nookkala,1986,Heredias 105,193-199
-91,Arthropoda,Insecta,Hemiptera,Plagiognathus arbustorum,,,Male,Male,N/A,1,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nookkala,1986,Heredias 105,193-200
-92,Arthropoda,Insecta,Hemiptera,Anthocoris nemorum,2,16,Male,Male,N/A,1,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nookkala,1986,Hereditas 105,287-289
-93,Arthropoda,Insecta,Hemiptera,Myrmedobia exilis,2,14,Male,Male,N/A,1,"This study seemed to focus on myrmedobia and not loricula, article only presents achiasmatic data for myrmedobia and not loricula","Achiasmatic male meiosis in Myrmedobia coleoptrata (Fn.) (Heteroptera, Microphysidae)",S. Nookkala,2000,Caryologia 55,5-8
-94,Arthropoda,Insecta,Hemiptera,Cimex sp,2,33,Male,Male,N/A,1,,"Achiasmatic male meiosis in Cimex sp. (Heteroptera, Cimicidae)",S. Grozeva,2002,Caryologia 55,189-192
-95,Arthropoda,Insecta,Hemiptera,Tenagobia fuscata,2,30,Male,Male,N/A,1,Could not find full article,"Achiasmatic male meiosis in Tenagobia (Fuscagobia) fuscata (Stål) (Heteroptera, Corixoidea, Micronectidae).",S. Iituarte,2004,Genetica 122,199-206
-96,Arthropoda,Insecta,Hemiptera,Cymatia rogenhoferi,2,33,Male,Male,N/A,1,,"Achiasmate male meiosis in two Cymatia species (Hemiptera, Heteroptera, Corixidae).",D. Stoianova,2015,ZooKeys 538,95-104
-97,Arthropoda,Insecta,Hemiptera,Cymatia cleoptrata,2,24,Male,Male,N/A,1,,"Achiasmate male meiosis in two Cymatia species (Hemiptera, Heteroptera, Corixidae).",D. Stoianova,2015,ZooKeys 538,95-105
-98,Arthropoda,Insecta,Coleoptera,Pogonus chalceus,2,22,Male,Male,N/A,1,,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-99,Arthropoda,Insecta,Coleoptera,Tachyura parvula,,,Male,Male,N/A,1,Speculative; pending observations of other critical stages in spermatogenesis,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-100,Arthropoda,Insecta,Coleoptera,Trechus obtusus,,,Male,Male,N/A,1,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-101,Arthropoda,Insecta,Coleoptera,Trechus quadristriatus,,,Male,Male,N/A,1,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-102,Arthropoda,Insecta,Coleoptera,Perileptus areolatus,,,Male,Male,N/A,1,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-103,Arthropoda,Insecta,Coleoptera,Egadroma marginatum,2,39,Male,Male,N/A,1,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
-104,Arthropoda,Insecta,Trichoptera,Limnephilus decipiens,,,Female,Female,1,N/A,Article in german and cannot be interpreted,Achiasmatische oogenese bei trichopteren,E. Suomalainen,1966,Chromosoma 18,201-207
-105,Arthropoda,Insecta,Trichoptera,Limnephilus borealis,,,Female,Female,1,N/A,,Achiasmatische oogenese bei trichopteren,E. Suomalainen,1966,Chromosoma 18,201-207
-106,Arthropoda,Insecta,Lepidoptera,Bombyx mori,,,Female,Female,1,N/A,neither paper is a primary source. I looked up tanaka paper and saved it into sciwheel but there is no cytological data within the article. seems to contain mutations and occurences record that does not follow mendeliian norms.,(1) Recent Advances in Cytology (2) Chromosomes and Plant-breeding,A. Sturtevant,1914,The American Naturalist 48,315-317
-107,Arthropoda,Insecta,Lepidoptera,Ephestia kuehniella,2,30,Female,Female,1,N/A,article says '30 bivalents which represent a haploid set. Need some clarification for the ploidy. and n number,"A study of recombination, formation of chiasmata and synaptonemal complexes in female and male meiosis of Ephestia kuehniella (Lepidoptera)",W. Traut,1977,Genetica 47,135
-108,Arthropoda,Insecta,Lepidoptera,Galleria mellon,,,Female,Female,1,N/A,This article has a lack of cytological data and seems to focus on genetic mapping techniques,Genetical studies on the wax moth galleria mellonella linn.,T. Smith,1938,Genetics 23,115-137
-109,Arthropoda,Insecta,Lepidoptera,Helicontius erato,,,Female,Female,1,N/A,usses backcross,Absence of crossing-over in female butterflies (Heliconius).,J. Turner,1975,Heredity 34,265-269
-110,Arthropoda,Insecta,Lepidoptera,Helicontius melpomene,,,Female,Female,1,N/A,,Absence of crossing-over in female butterflies (Heliconius).,J. Turner,1975,Heredity 34,265-269
-111,Arthropoda,Insecta,Mecoptera,Bittacus pilicornis,2,15,Male,Male,N/A,1,article not found,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
-112,Arthropoda,Insecta,Mecoptera,Bittacus stigmaterus,2,16,Male,Male,N/A,1,article not found,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
-113,Arthropoda,Insecta,Mecoptera,Panorpa anomala,2,23,Male,Male,N/A,1,article not found,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
-114,Arthropoda,Insecta,Mecoptera,Panorpa acuta,2,23,Male,Male,N/A,1,article not found,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
-115,Arthropoda,Insecta,Mecoptera,Panorpa communis,2,23,Male,Male,N/A,1,Article in german,[Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].,F. Ulerich,1961,Chromosoma 12,215-232
-116,Arthropoda,Insecta,Mecoptera,Panorpa cognata,2,22,Male,Male,N/A,1,,[Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].,F. Ulerich,1961,Chromosoma 12,215-232
-117,Arthropoda,Insecta,Mecoptera,Neopanorpa lui,2,21,Male,Male,N/A,1,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
-118,Arthropoda,Insecta,Mecoptera,Panorpa emarginata,2,20,Male,Male,N/A,1,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
-119,Arthropoda,Insecta,Mecoptera,Panorpa dubia,2,20,Male,Male,N/A,1,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
-120,Arthropoda,Insecta,Mecoptera,Cerapanorpa brevicornis,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-121,Arthropoda,Insecta,Mecoptera,Cerapanorpa byersi,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-122,Arthropoda,Insecta,Mecoptera,Cerapanorpa dubia,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-123,Arthropoda,Insecta,Mecoptera,Cerapanorpa nanwutaina,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-124,Arthropoda,Insecta,Mecoptera,Cerapanorpa obtusa,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-125,Arthropoda,Insecta,Mecoptera,Cerapanorpa protrudens,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-126,Arthropoda,Insecta,Mecoptera,Cerapanorpa sinuata,2,43,Male,Male,N/A,1,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
-127,Arthropoda,Insecta,Diptera,Cnephia dacotensis,,,Male,Male,N/A,1,,A cytological study of two closely related blackfly species: Cnephia dacotensis and Cnephia ornithophilia (Diptera: Simuliidae).,W. Procunier,1975,Can. J. Zool. 53,1622-1637
-128,Arthropoda,Insecta,Diptera,Cnephia ornithophilia,,,Male,Male,N/A,1,,A cytological study of two closely related blackfly species: Cnephia dacotensis and Cnephia ornithophilia (Diptera: Simuliidae).,W. Procunier,1975,Can. J. Zool. 53,1622-1637
-129,Arthropoda,Insecta,Diptera,Trichosia pubescens,,,Male,Male,N/A,1,,Spermatogenesis in Trichosia pubescens (Diptera:Sciaridae).,J. Amabis,1979,J. Cell Sci. 36,199-213
-130,Arthropoda,Insecta,Diptera,Glossina austeni,,,Male,Male,N/A,1,,The fine structure of sperm development in Glossina,T. Craig-Cameron,1973,transactions of the Royal Society of Tropical Medicine and Hygiene 67,303-304
-131,Arthropoda,Insecta,Diptera,Glossina morsitans,,,Male,Male,N/A,1,,The fine structure of sperm development in Glossina,T. Craig-Cameron,1973,transactions of the Royal Society of Tropical Medicine and Hygiene 67,303-304
-132,Arthropoda,Insecta,Diptera,Simulium aurem,1,2,Male,Male,N/A,1,,Achiasmate meiosis and centromere shift in Eusimulium aureum (Diptera-Simuliidae).,K. Rothfels,1975,Chromosoma 51,111-124
-133,Arthropoda,Insecta,Diptera,Prosimulium decemarticulatum,1,3,Male,Male,N/A,1,,Achiasmate meiosis and centromere shift in Eusimulium aureum (Diptera-Simuliidae).,K. Rothfels,1975,Chromosoma 51,111-124
-134,Arthropoda,Insecta,Diptera,Cochliomyia hominivorax,,,Male,Male,N/A,1,,A reciprocal translocation in cochliomyia hominivorax (diptera: calliphoridae). genetic and cytological evidence for preferential segregation in males.,I. La Chance,1964,Genetics 49,959-972
-135,Arthropoda,Insecta,Diptera,Chrysomya chloropyga,2,8,Male,Male,N/A,1,5 large pairs of chromosomes and XY system,"Chromosomenverh~iltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
-136,Arthropoda,Insecta,Diptera,Chrysomya putoria,2,8,Male,Male,N/A,1,6 large pairs of chromosomes and XY system,"Chromosomenverh~iltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
-137,Arthropoda,Insecta,Diptera,Chrysomya varipes,2,8,Male,Male,N/A,1,7 large pairs of chromosomes and XY system,"Chromosomenverh~iltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
-138,Arthropoda,Insecta,Diptera,Protocalliphora falcozi,2,12,Male,Male,N/A,1,,"Karyotype of the bird blowfly, Protocalliphora falcozi Séguy, 1928 (Diptera, Calliphoridae).",M. Holecová,2012,Folia Biologica (Kraków) 60,129-133
-139,Arthropoda,Insecta,Diptera,Hylemya antiqua,1,10,Male,Male,N/A,1,,"Meiotic segregation of five different reciprocal translocations in the onion fly, Hylemya antiqua (Meigen).",L. Vosselman,1981,Chromosoma 81,727-738
-140,Arthropoda,Insecta,Diptera,Ceratitis capitata,,,Male,Male,N/A,1,,Absence of recombination in the male of Ceratitis capitata.,J. Caldera,1981,Experientia 37,342-343
-141,Arthropoda,Insecta,Diptera,Drosophila psuedo-obscura,2,8,Male,Male,N/A,1,,Anomalous Chromosome Pairing in the Male Drosophila Pseudo-Obscura.,C. Darlington,1934,Genetics 19,95-118
-142,Platyhelminthes,Rhabditophora,Rhabdocoela,Mesostoma ehrenbergii,2,5,Female,unknown,1,N/A,"Haploid Number Entered --> 2n = 10, **NEED CLARIFICATION","Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela) II. Synaptonemal complexes, chromosome pairing and disjunction in achiasmate oogenesis",H. Oakley,1982,Chromosoma 87,133-147
-143,Platyhelminthes,Rhabditophora,Rhabdocoela,Mesostoma ehrenbergii,2,5,Female,unknown,1,N/A,"Haploid Number Entered --> 2n = 10, **NEED CLARIFICATION","Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela) II. Synaptonemal complexes, chromosome pairing and disjunction in achiasmate oogenesis",H. Oakley,1982,Chromosoma 85,311-322
-144,Arthropoda,Insecta,Diptera,Drosophila melanogaster,2,4,Male,Male,N/A,1,Burt50,,,,,
-145,Arthropoda,Insecta,Trichoptera,Allogamus auricollis,2,30,Female,Female,1,N/A,Burt25,,,,,
-146,Arthropoda,Insecta,Trichoptera,Glyphotaelius pellucidus,2,30,Female,Female,1,N/A,Burt26,,,,,
-147,Arthropoda,Insecta,Lepidoptera,Antheraea assamensis,2,15,Female,Female,1,N/A,Burt18,,,,,
-148,Arthropoda,Insecta,Lepidoptera,Bombyx mori,2,28,Female,Female,1,N/A,Burt21,,,,,
-149,Arthropoda,Insecta,Lepidoptera,Byblia ilithyia,2,17,Female,Female,1,N/A,Burt33,,,,,
-150,Arthropoda,Insecta,Lepidoptera,Ephestia kuehniella,2,30,Female,Female,1,N/A,Burt45,,,,,
-151,Arthropoda,Insecta,Lepidoptera,Philosamia ricini,2,14,Female,Female,1,N/A,Burt39,,,,,
-152,Arthropoda,Insecta,Hymenoptera,Aphytis mytilaspidis,2,5,Male,unknown,N/A,1,Burt42,,,,,
-153,Arthropoda,Arachnida,Scorpiones,Tityus silvestris,2,24,Male,unknown,,,"Epigenetic modifications reegulate modified meiosis 
-Achiasmy occurs in all Scorpiones families ( this was a citation from Schneider et al., 2009a: Loidl, 2016",Meiosis in the scorpion Tityus silvestris: new insights into achiasmatic chromosomes.,B. Ribeiro de Almeida,2019,Biology Open 8,
-154,Arthropoda,Insecta,Diptera,Drosophila albomicans,2,6,Male,Male,,,neo x and neo y are among the youngest sex chromosomes to be investigated,Ancestral male recombination in Drosophila albomicans produced geographically restricted neo-Y chromosome haplotypes varying in age and onset of decay.,K. Wei,2019,PLOS Genetics 15(11),
-155,Arthropoda,Insecta,Hemiptera,Ilycoris cimicoides,2,51,Male,Male,,,The first achiasmy report for the family Naucoridae,"New data on karyotype, spermatogenesis and ovarian trophocyte ploidy in three aquatic bug species of the families Naucoridae, Notonectidae, and Belostomatidae (Nepomorpha, Heteroptera).",D. Stoianova,2020,Comparative Cytogenetics,139-156
-156,Arthropoda,Insecta,Lepidoptera,Cameraria ohridella,2,60,Female,Female,,,"bottom of page 3; temp note
-nemophora_degeerella 11
-triodia_sylvina 12",The karyotype of Cameraria ohridella (Lepidoptera: Gracillariidae),J. De Prins,2002,Phegea 30,5-10
-157,Arthropoda,Insecta,Trichoptera,Limnephilus lunatus,2,25,Female,Female,,,,Sex chromatin and sex chromosome systems in nonditrysian Lepidoptera (Insecta),V. Lukhtanov,2000,Journal of Zoological Systematics and evolutionary research 38,73-79
-158,Chordata,Mammalia,Rodentia,Meriones unguiculatus,2,22,Male,Male,,,Haploid Number entered --> 2n = 44; 42aa + XY,Meiotic pairing and segregation of achiasmate sex chromosomes in eutherian mammals: the role of SYCP3 protein.,R. Fuente,2007,PloS Genetica 3(11),
-159,Arthropoda,Insecta,Hemiptera,cacopsylla perengrina,,13,Male,Male,,,,"The origin of the achiasmatic XY sex chromosome system in Cacopsylla peregrina (Frst.) (Psylloidea, Homoptera).",S. Nokkala,2003,Genetica 119,327-332
-160,Chordata,Mammalia,Rodentia,Mus minutoides,2,8,Male,Male,,,"Also mentions M . matthey but there is no karyotype nor relavant information about its status
-Haploid Number entered --> 2n = 18; 16aa + XY",Meiosis reveals the early steps in the evolution of a neo-XY sex chromosome pair in the African pygmy mouse Mus minutoides.,A. Gil-Fernández,2020,PLoS Genet 16(11):,
-161,Chordata,Mammalia,Rodentia,Mus mattheyi,2,17,Male,Male,,,"Haploid Number Entered --> 2n = 36; 34aa + XY
-subgenus; Nannomys",Meiotic Behavior of Achiasmate Sex Chromosomes in the African Pygmy Mouse Mus mattheyi Offers New Insights into the Evolution of Sex Chromosome Pairing and Segregation in Mammals.,A. Gil-Fernández,2021,Genes 2021,
-162,Chordata,Mammalia,Rodentia,Microtus duodecimcostatus,2,30,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,R. de la Fuente,2012,Chromosoma 121,433-446
-163,Chordata,Mammalia,Rodentia,Psammomys obesus,2,23,Male,Male,,,Haploid Number Entered --> 2n = 48; 46aa + XY,"End association and segregation of the achiasmatic X and Y chromosomes of the sand rat, Psammomys obesus.",T. Ashley,1980,Chromosoma 78,203-210
-164,Arthropoda,Insecta,Diptera,Drosophila simulans,,,Male,Male,,,,A sex-ratio meiotic drive system in Drosophila simulans. II: an X-linked distorter.,Y. Tao,2007,PLOS Biology 5(11),2576-2588
-165,Arthropoda,Insecta,Diptera,Drosophila miranda,,,Male,Male,,,,The advantages of recombination.,A. Carvalho,2003,Nature Genetics 34,128-129
-166,Arthropoda,Insecta,Hemiptera,Myrmedobia coleopterata,2,7,Male,Male,,,"haploid number entered
-Achiasmatic male meiosis in Myrmedobia coleoptrata(Fn.) (Heteroptera, Microphysidae)","Achiasmatic male meiosis in Myrmedobia coleoptrata(Fn.) (Heteroptera, Microphysidae)",S. Nokkala,,,
-167,Arthropoda,Insecta,Coleoptera,Trechus latus,2,11,Male,Male,,,"haploid count good
-KARYOLOGICAL STUDIES ON TRECHINAE (COLEOPTERA, CARABIDAE). III. KARYOTYPE OF TRECHUS LATUS PUTZ. AND TRECHUS QUADRISTRIATUS (SCHR.)","KARYOLOGICAL STUDIES ON TRECHINAE (COLEOPTERA, CARABIDAE). III. KARYOTYPE OF TRECHUS LATUS PUTZ. AND TRECHUS QUADRISTRIATUS (SCHR.)",M. Rożek,,,
-168,Arthropoda,Insecta,Mantodea,Bolbe nigra,,12-13,Male,Male,,,jamie lit sweep 11/23,SYNAPTINEMAL COMPLEXES IN ACHIASMATIC SPERMATOGENESIS OF BOLBE NIGRA GIGLIO-TOS (MANTOIDEA),G. Gassner,1969,Chromosoma 26(1),
-169,Arthropoda,Insecta,Lepidoptera,Argraulis vanillae,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-170,Arthropoda,Insecta,Lepidoptera,Dryadula phaetusa,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-171,Arthropoda,Insecta,Lepidoptera,Heliconius isabella,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-172,Arthropoda,Insecta,Lepidoptera,Heliconius aliphera,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-173,Arthropoda,Insecta,Lepidoptera,Heliconius doris,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-174,Arthropoda,Insecta,Lepidoptera,Heliconius ethilla,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-175,Arthropoda,Insecta,Lepidoptera,Heliconius melpomene,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-176,Arthropoda,Insecta,Lepidoptera,Heliconius erato,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-177,Arthropoda,Insecta,Lepidoptera,Heliconius sara,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-178,Arthropoda,Insecta,Lepidoptera,Heliconius ricini,,,Female,Female,,,jamie lit sweep 11/23,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS,
-179,Arthropoda,Insecta,Lepidoptera,Erebia medusa polaris,,,Female,Female,,,jamie lit sweep 11/23,Chromosomenzahlen finnlandischer Lepidopteren,H. Federley,1938,HEREDITAS,
-180,Arthropoda,Insecta,Lepidoptera,Witlesia murana,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-181,Arthropoda,Insecta,Lepidoptera,Witlesia truncicolella,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-182,Arthropoda,Insecta,Lepidoptera,Witlesia merurella,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-183,Arthropoda,Insecta,Lepidoptera,Witlesia crataegella,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-184,Arthropoda,Insecta,Lepidoptera,Scoparia arundinata,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-185,Arthropoda,Insecta,Lepidoptera,Scoparia ambigualis,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-186,Arthropoda,Insecta,Lepidoptera,Scoparia cembrella,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-187,Arthropoda,Insecta,Lepidoptera,Scoparia ulmella,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-188,Arthropoda,Insecta,Lepidoptera,Bactra furfurana,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-189,Arthropoda,Insecta,Lepidoptera,Bactra robustana,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-190,Arthropoda,Insecta,Lepidoptera,Bactra lacteana,,,Female,Female,,,jamie lit sweep 11/23,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
-191,Arthropoda,Insecta,Lepidoptera,Lozotaenia forsterana,,,Female,Female,,,jamie lit sweep 11/23,"Unequal sex chromosomes in a moth, Lozotaenia forsterana",E. Suomalainen,1971,HEREDITAS,
-192,Arthropoda,Insecta,Lepidoptera,Lyncometra ocellata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-193,Arthropoda,Insecta,Lepidoptera,Plemyria bicolorata,,29-32,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-194,Arthropoda,Insecta,Lepidoptera,Thera variata,,13,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-195,Arthropoda,Insecta,Lepidoptera,Thera obeliscata,,13,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-196,Arthropoda,Insecta,Lepidoptera,Thera cognata,,20,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-197,Arthropoda,Insecta,Lepidoptera,Thera juniperata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-198,Arthropoda,Insecta,Lepidoptera,Thera firmata,,19,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-199,Arthropoda,Insecta,Lepidoptera,Chloroclysta miata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-200,Arthropoda,Insecta,Lepidoptera,Dysstroma truncata,,29,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-201,Arthropoda,Insecta,Lepidoptera,Dysstroma latefasciata,,29,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-202,Arthropoda,Insecta,Lepidoptera,Dysstroma citrata,,29,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-203,Arthropoda,Insecta,Lepidoptera,Xanthorhoe fluctuata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-204,Arthropoda,Insecta,Lepidoptera,Xanthorhoe quadrifasciata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-205,Arthropoda,Insecta,Lepidoptera,Colostygia aptata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-206,Arthropoda,Insecta,Lepidoptera,Colostygia olivata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-207,Arthropoda,Insecta,Lepidoptera,Colostygia pectinataria,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-208,Arthropoda,Insecta,Lepidoptera,Colostygia didymata,,27,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-209,Arthropoda,Insecta,Lepidoptera,Colostygia parallelolineata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-210,Arthropoda,Insecta,Lepidoptera,Lampropteryx suffumata,,32,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-211,Arthropoda,Insecta,Lepidoptera,Lampropteryx minna,,17,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-212,Arthropoda,Insecta,Lepidoptera,Psychophora sabini frigidaria,,29,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-213,Arthropoda,Insecta,Lepidoptera,Coenotephria sagittata,,12,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-214,Arthropoda,Insecta,Lepidoptera,Euphyia cucullata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-215,Arthropoda,Insecta,Lepidoptera,Euphyia luctuata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-216,Arthropoda,Insecta,Lepidoptera,Euphyia corylata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-217,Arthropoda,Insecta,Lepidoptera,Camptogramma bilineata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-218,Arthropoda,Insecta,Lepidoptera,Mesoleuca albicillata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-219,Arthropoda,Insecta,Lepidoptera,Eulype hastata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-220,Arthropoda,Insecta,Lepidoptera,Eulype subhastata,,30-31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-221,Arthropoda,Insecta,Lepidoptera,Epirrhoe tristata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-222,Arthropoda,Insecta,Lepidoptera,Epirrhoe alternata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-223,Arthropoda,Insecta,Lepidoptera,Epirrhoe galiata,,31,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-224,Arthropoda,Insecta,Lepidoptera,Perizoma taeniata,,32,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-225,Arthropoda,Insecta,Lepidoptera,Perizoma affinitata,,25,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-226,Arthropoda,Insecta,Lepidoptera,Perizoma alchemillata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-227,Arthropoda,Insecta,Lepidoptera,Perizoma hydrata,,25,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-228,Arthropoda,Insecta,Lepidoptera,Perizoma blandiata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-229,Arthropoda,Insecta,Lepidoptera,Perizoma flavofasciata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-230,Arthropoda,Insecta,Lepidoptera,Hydriomena furcata,,28,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-231,Arthropoda,Insecta,Lepidoptera,Hydriomena coerulata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-232,Arthropoda,Insecta,Lepidoptera,Hydriomena ruberata,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-233,Arthropoda,Insecta,Lepidoptera,Pelurga comitata,,32,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-234,Arthropoda,Insecta,Lepidoptera,Hydrelia testaceata,,13,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-235,Arthropoda,Insecta,Lepidoptera,Hydrelia flammeolaria,,30,Female,Female,,,jamie lit sweep 11/23,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA,
-236,Arthropoda,Insecta,Mantodea,Ima fusca,,17,Male,Male,,,jamie lit sweep 11/23,XY SEX-CHROMOSOME MECHANISM IN A MANTID WITH ACHIASMATIC MEIOSIS,M. White,1975,CHROMOSOMA,
-237,Mollusca,Gastropoda,Littorinimorpha,Bithynia tentaculata,,,Male,unknown,,,jamie lit sweep 11/23,"NODULES IN ACHIASMATIC MEIOSIS OF BITHYNIA (MOLLUSCA, PROSOBRANCHIA)",B. Debus,1978,CHROMOSOMA,
-238,Mollusca,Gastropoda,Littorinimorpha,Bithynia leachi,,,Male,unknown,,,jamie lit sweep 11/23,LINKAGE RELATIONSHIPS AMONG 5 ENZYME-CODING GENE LOCI IN THE COPEPOD TIGRIOPUS-CALIFORNICUS - A GENETIC CONFIRMATION OF ACHIASMATIC MEIOSIS,R. Burton,1981,BIOCHEMICAL GENETICS,
-239,Arthropoda,Insecta,Lepidoptera,Ectomylois ceratoniae,,,Female,Female,,,,"SYNAPTONEMAL COMPLEXES, TELOMERIC NUCLEOLI AND THE KARYOSPHERE IN ACHIASMATIC OOCYTE MEIOSIS OF THE CAROB MOTH",D. Morag,,CHROMOSOMA,
-240,Chordata,Mammalia,Rodentia,Microtus agrestis,,,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,K. Wolf,1988,CHROMOSOMA,
-241,Arthropoda,Insecta,Lepidoptera,Helicoverpa armigera,,,Female,Female,,,,"KARYOTYPE AND ACHIASMATIC FEMALE MEIOSIS IN HELICOVERPA-ARMIGERA (HUBNER) AND H-PUNCTIGERA (WALLENGREN) (LEPIDOPTERA, NOCTUIDAE)",J. Fisk,1989,Genome,
-242,Arthropoda,Insecta,Lepidoptera,Helicoverpa punctigera,,,Female,Female,,,,"KARYOTYPE AND ACHIASMATIC FEMALE MEIOSIS IN HELICOVERPA-ARMIGERA (HUBNER) AND H-PUNCTIGERA (WALLENGREN) (LEPIDOPTERA, NOCTUIDAE)",J. Fisk,1989,Genome,
-243,Chordata,Mammalia,Rodentia,Pitymys duodecimcostatus,,,Male,Male,,,sex chromosomes might be only achiasmatic,ACHIASMATIC SEX-CHROMOSOMES IN PITYMYS-DUODECIMCOSTATUS - MECHANISMS OF ASSOCIATION AND SEGREGATION,A. Carnero,1991,CYTOGENETICS AND CELL GENETICS,
-244,Chordata,Mammalia,Rodentia,Microtus cabrerae,,,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,R. Jimenez,1992,CYTOGENETICS AND CELL GENETICS,
-245,Arthropoda,Insecta,Coleoptera,Pogonus persicus,,10,Male,Male,,,,"KARYOLOGICAL ANALYSIS OF ACUPALPUS (STENOLOPHUS) TEUTONUS (SCHRANK) AND POGONUS-PERSICUS (CHAUD) (COLEOPTERA, CARABIDAE)",M. Rożek,1992,FOLIA BIOLOGICA-KRAKOW,
-246,Arthropoda,Insecta,Psocodea,Haematopinus suis,,10,Male,unknown,,,,"MEIOSIS IN HAEMATOPINUS-SUIS AND MENACANTHUS-STRAMINEUS (PHTHIRAPTERA, INSECTA)",M. Tombesi,1993,Hereditas,
-247,Arthropoda,Insecta,Psocodea,Menacanthus stramineus,,10,Male,unknown,,,,"MEIOSIS IN HAEMATOPINUS-SUIS AND MENACANTHUS-STRAMINEUS (PHTHIRAPTERA, INSECTA)",M. Tombesi,1993,Hereditas,
-248,Arthropoda,Insecta,Coleoptera,Distocupes varians,,9,Male,Male,,,,"1ST KARYOTYPIC DATA ON A CUPEDID BEETLE (COLEOPTERA, ARCHOSTEMATA) SHOWING ACHIASMATIC MEIOSIS",J. Galian,1993,ENTOMOLOGICAL NEWS,
-249,Chordata,Mammalia,Rodentia,Mus dunni,2,,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,G. Matioli,1994,MEDICAL HYPOTHESES,
-250,Arthropoda,Insecta,Lepidoptera,Orgyia thyellina,,11,Female,Female,,,,"Cytogenetics of a moth species with a low chromosome number, Orgyia thyellina",W. Traut,1996,HEREDITAS,
-251,Arthropoda,Insecta,Lepidoptera,Yponomeuta padellus,,,Female,Female,,,,"Inheritance and linkage of isozymes in Yponomeuta padellus (Lepidoptera, yponomeutidae)",L. Raijmann,1997,HEREDITY,
-252,Chordata,Mammalia,Rodentia,Microtus afghanus,2,28,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-253,Chordata,Mammalia,Rodentia,Microtus buharicus,2,23,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-254,Chordata,Mammalia,Rodentia,Microtus juldaschi,2,26,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-255,Chordata,Mammalia,Rodentia,Microtus brandtii,2,16,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-256,Chordata,Mammalia,Rodentia,Microtus arvalis,2,22,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-257,Chordata,Mammalia,Rodentia,Microtus guentheri,2,25-26,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-258,Chordata,Mammalia,Rodentia,Microtus kirgisorum,2,26,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-259,Chordata,Mammalia,Rodentia,Microtus rossiaemeridionalis,2,26,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-260,Chordata,Mammalia,Rodentia,Microtus socialis,2,30,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-261,Chordata,Mammalia,Rodentia,Microtus transcaspicus,2,25,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-262,Chordata,Mammalia,Rodentia,Microtus mexicanus,2,23,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-263,Chordata,Mammalia,Rodentia,Microtus gregalis,2,17,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-264,Chordata,Mammalia,Rodentia,Microtus majori,2,26,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-265,Chordata,Mammalia,Rodentia,Microtus subterraneus,2,25,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
-266,Chordata,Mammalia,Rodentia,Microtus thomasi,2,18-21,Male,Male,,,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+Record Column,Phyla,Class,Order,Genus species,Ploidy,N (haploid autosome),Achiasmy Sex,Heterogametic Sex,Notes,Title Name,1st Author,Year,Journal,Page Number
+70,Arthropoda,Crustacea,Copepoda,Tigriopus californicus,2,24,Female,unknown,,The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda),A. Ar-Rushdi,1963,Chromosoma 13,526-539
+71,Arthropoda,Crustacea,Copepoda,Tigriopus brevicornis,2,24,Female,unknown,,The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda),A. Ar-Rushdi,1963,Chromosoma 13,526-539
+72,Arthropoda,Crustacea,Copepoda,Tigriopus japonicus,2,24,Female,unknown,,The cytology of achiasmatic meiosis in the female Tigriopus (Copepoda),A. Ar-Rushdi,1963,Chromosoma 13,526-539
+243,Chordata,Mammalia,Rodentia,Pitymys duodecimcostatus,,,Male,Male,only sex chromosomes achiasmatic,ACHIASMATIC SEX-CHROMOSOMES IN PITYMYS-DUODECIMCOSTATUS - MECHANISMS OF ASSOCIATION AND SEGREGATION,A. Carnero,1991,CYTOGENETICS AND CELL GENETICS,
+165,Arthropoda,Insecta,Diptera,Drosophila miranda,,,Male,Male,,The advantages of recombination.,A. Carvalho,2003,Nature Genetics 34,128-129
+160,Chordata,Mammalia,Rodentia,Mus minutoides,2,8,Male,Male,,Meiosis reveals the early steps in the evolution of a neo-XY sex chromosome pair in the African pygmy mouse Mus minutoides.,A. Gil-Fernandez,2020,PLoS Genet 16(11),
+161,Chordata,Mammalia,Rodentia,Mus mattheyi,2,17,Male,Male,,Meiotic Behavior of Achiasmate Sex Chromosomes in the African Pygmy Mouse Mus mattheyi Offers New Insights into the Evolution of Sex Chromosome Pairing and Segregation in Mammals.,A. Gil-Fernandez,2021,Genes 2021,
+106,Arthropoda,Insecta,Lepidoptera,Bombyx mori,,,Female,Female,,(1) Recent Advances in Cytology (2) Chromosomes and Plant-breeding,A. Sturtevant,1914,The American Naturalist 48,315-317
+5,Annelida,Clitellata,Enchytraeida,Achaeta bulbosa,,150-160,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,2009,Hereditas,387-450
+6,Annelida,Clitellata,Enchytraeida,Enchytronia parva,,24,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+7,Annelida,Clitellata,Enchytraeida,Fridericia bulbosa,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+8,Annelida,Clitellata,Enchytraeida,Fridericia bulboides,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+9,Annelida,Clitellata,Enchytraeida,Fridericia callosa,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+10,Annelida,Clitellata,Enchytraeida,Fridericia striata,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+11,Annelida,Clitellata,Enchytraeida,Fridericia paroniana,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+12,Annelida,Clitellata,Enchytraeida,Fridericia bisetosa,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+13,Annelida,Clitellata,Enchytraeida,Fridericia bisetosa,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+14,Annelida,Clitellata,Enchytraeida,Fridericia maculata,,26,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+15,Annelida,Clitellata,Enchytraeida,Fridericia maculata,,45,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+16,Annelida,Clitellata,Enchytraeida,Fridericia leydigi,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+17,Annelida,Clitellata,Enchytraeida,Fridericia leydigi,,60,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+18,Annelida,Clitellata,Enchytraeida,Fridericia connata,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+19,Annelida,Clitellata,Enchytraeida,Fridericia connata,,56,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+20,Annelida,Clitellata,Enchytraeida,Fridericia connata,,64,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+21,Annelida,Clitellata,Enchytraeida,Fridericia perrieri,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+22,Annelida,Clitellata,Enchytraeida,Fridericia galba,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+23,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,40,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+24,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,56,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+25,Annelida,Clitellata,Enchytraeida,Fridericia ratzeli,,80-90,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+26,Annelida,Clitellata,Enchytraeida,Fridericia gracilis,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+27,Annelida,Clitellata,Enchytraeida,Fridericia hegemon,,32,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+28,Annelida,Clitellata,Enchytraeida,Buchholzia appendiculata,,18,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+29,Annelida,Clitellata,Enchytraeida,Buchholzia fallax,,18-19,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+30,Annelida,Clitellata,Enchytraeida,Buchholzia fallax,,36-38,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+31,Annelida,Clitellata,Enchytraeida,Hermifridericia parva,,28,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+32,Annelida,Clitellata,Enchytraeida,Hermifridericia parva,,42,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+33,Annelida,Clitellata,Enchytraeida,Henlea perpusilla,,17,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+34,Annelida,Clitellata,Enchytraeida,Henlea perpusilla,,34,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+35,Annelida,Clitellata,Enchytraeida,Marionina subterroonea,,18,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+36,Annelida,Clitellata,Enchytraeida,Marionina sjaelandica,,18,Both,unknown,,Studies on cyto-taxonomy and reproduction in the Enchytraeidae,B. Christensen,1961,Hereditas,387-450
+237,Mollusca,Gastropoda,Littorinimorpha,Bithynia tentaculata,,,Male,unknown,,"NODULES IN ACHIASMATIC MEIOSIS OF BITHYNIA (MOLLUSCA, PROSOBRANCHIA)",B. Debus,1978,CHROMOSOMA,
+153,Arthropoda,Arachnida,Scorpiones,Tityus silvestris,2,24,Male,unknown,,Meiosis in the scorpion Tityus silvestris: new insights into achiasmatic chromosomes.,B. Ribeiro de Almeida,2019,Biology Open 8,
+117,Arthropoda,Insecta,Mecoptera,Neopanorpa lui,2,21,Male,Male,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
+118,Arthropoda,Insecta,Mecoptera,Panorpa emarginata,2,20,Male,Male,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
+119,Arthropoda,Insecta,Mecoptera,Panorpa dubia,2,20,Male,Male,,"A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).",B. Xu,2013,Comp. Cytogenet. 23,229-239
+69,Arthropoda,Crustacea,Copepoda,Mesocyclops edax,2,14,Female,unknown,,"Achiasmatic meiosis and complex heterozygosity in female cyclopoid copepods (Copepoda, Crustacea)",C. Chinnappa,1979,Chromosoma 71,227-236
+141,Arthropoda,Insecta,Diptera,Drosophila psuedo-obscura,2,8,Male,Male,,Anomalous Chromosome Pairing in the Male Drosophila Pseudo-Obscura.,C. Darlington,1934,Genetics 19,95-118
+239,Arthropoda,Insecta,Lepidoptera,Ectomylois ceratoniae,,,Female,Female,,"SYNAPTONEMAL COMPLEXES, TELOMERIC NUCLEOLI AND THE KARYOSPHERE IN ACHIASMATIC OOCYTE MEIOSIS OF THE CAROB MOTH",D. Morag,1982,CHROMOSOMA,
+96,Arthropoda,Insecta,Hemiptera,Cymatia rogenhoferi,2,33,Male,Male,,"Achiasmate male meiosis in two Cymatia species (Hemiptera, Heteroptera, Corixidae).",D. Stoianova,2015,ZooKeys 538,95-104
+97,Arthropoda,Insecta,Hemiptera,Cymatia cleoptrata,2,24,Male,Male,,"Achiasmate male meiosis in two Cymatia species (Hemiptera, Heteroptera, Corixidae).",D. Stoianova,2015,ZooKeys 538,95-105
+155,Arthropoda,Insecta,Hemiptera,Ilycoris cimicoides,2,51,Male,Male,,"New data on karyotype, spermatogenesis and ovarian trophocyte ploidy in three aquatic bug species of the families Naucoridae, Notonectidae, and Belostomatidae (Nepomorpha, Heteroptera).",D. Stoianova,2020,Comparative Cytogenetics,139-156
+104,Arthropoda,Insecta,Trichoptera,Limnephilus decipiens,,,Female,Female,,Achiasmatische oogenese bei trichopteren,E. Suomalainen,1966,Chromosoma 18,201-207
+105,Arthropoda,Insecta,Trichoptera,Limnephilus borealis,,,Female,Female,,Achiasmatische oogenese bei trichopteren,E. Suomalainen,1966,Chromosoma 18,201-207
+192,Arthropoda,Insecta,Lepidoptera,Lyncometra ocellata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+193,Arthropoda,Insecta,Lepidoptera,Plemyria bicolorata,,29-32,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+194,Arthropoda,Insecta,Lepidoptera,Thera variata,,13,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+195,Arthropoda,Insecta,Lepidoptera,Thera obeliscata,,13,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+196,Arthropoda,Insecta,Lepidoptera,Thera cognata,,20,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+197,Arthropoda,Insecta,Lepidoptera,Thera juniperata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+198,Arthropoda,Insecta,Lepidoptera,Thera firmata,,19,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+199,Arthropoda,Insecta,Lepidoptera,Chloroclysta miata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+200,Arthropoda,Insecta,Lepidoptera,Dysstroma truncata,,29,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+201,Arthropoda,Insecta,Lepidoptera,Dysstroma latefasciata,,29,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+202,Arthropoda,Insecta,Lepidoptera,Dysstroma citrata,,29,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+203,Arthropoda,Insecta,Lepidoptera,Xanthorhoe fluctuata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+204,Arthropoda,Insecta,Lepidoptera,Xanthorhoe quadrifasciata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+205,Arthropoda,Insecta,Lepidoptera,Colostygia aptata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+206,Arthropoda,Insecta,Lepidoptera,Colostygia olivata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+207,Arthropoda,Insecta,Lepidoptera,Colostygia pectinataria,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+208,Arthropoda,Insecta,Lepidoptera,Colostygia didymata,,27,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+209,Arthropoda,Insecta,Lepidoptera,Colostygia parallelolineata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+210,Arthropoda,Insecta,Lepidoptera,Lampropteryx suffumata,,32,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+211,Arthropoda,Insecta,Lepidoptera,Lampropteryx minna,,17,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+212,Arthropoda,Insecta,Lepidoptera,Psychophora sabini frigidaria,,29,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+213,Arthropoda,Insecta,Lepidoptera,Coenotephria sagittata,,12,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+214,Arthropoda,Insecta,Lepidoptera,Euphyia cucullata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+215,Arthropoda,Insecta,Lepidoptera,Euphyia luctuata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+216,Arthropoda,Insecta,Lepidoptera,Euphyia corylata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+217,Arthropoda,Insecta,Lepidoptera,Camptogramma bilineata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+218,Arthropoda,Insecta,Lepidoptera,Mesoleuca albicillata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+219,Arthropoda,Insecta,Lepidoptera,Eulype hastata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+220,Arthropoda,Insecta,Lepidoptera,Eulype subhastata,,30-31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+221,Arthropoda,Insecta,Lepidoptera,Epirrhoe tristata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+222,Arthropoda,Insecta,Lepidoptera,Epirrhoe alternata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+223,Arthropoda,Insecta,Lepidoptera,Epirrhoe galiata,,31,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+224,Arthropoda,Insecta,Lepidoptera,Perizoma taeniata,,32,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+225,Arthropoda,Insecta,Lepidoptera,Perizoma affinitata,,25,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+226,Arthropoda,Insecta,Lepidoptera,Perizoma alchemillata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+227,Arthropoda,Insecta,Lepidoptera,Perizoma hydrata,,25,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+228,Arthropoda,Insecta,Lepidoptera,Perizoma blandiata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+229,Arthropoda,Insecta,Lepidoptera,Perizoma flavofasciata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+230,Arthropoda,Insecta,Lepidoptera,Hydriomena furcata,,28,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+231,Arthropoda,Insecta,Lepidoptera,Hydriomena coerulata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+232,Arthropoda,Insecta,Lepidoptera,Hydriomena ruberata,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+233,Arthropoda,Insecta,Lepidoptera,Pelurga comitata,,32,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+234,Arthropoda,Insecta,Lepidoptera,Hydrelia testaceata,,13,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+235,Arthropoda,Insecta,Lepidoptera,Hydrelia flammeolaria,,30,Female,Female,,On the chromosomes of the geometrid moth genus Cidaria,E. Suomalainen,1965,CHROMOSOMA 16,166-184
+180,Arthropoda,Insecta,Lepidoptera,Witlesia murana,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+181,Arthropoda,Insecta,Lepidoptera,Witlesia truncicolella,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+182,Arthropoda,Insecta,Lepidoptera,Witlesia merurella,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+183,Arthropoda,Insecta,Lepidoptera,Witlesia crataegella,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+184,Arthropoda,Insecta,Lepidoptera,Scoparia arundinata,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+185,Arthropoda,Insecta,Lepidoptera,Scoparia ambigualis,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+186,Arthropoda,Insecta,Lepidoptera,Scoparia cembrella,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+187,Arthropoda,Insecta,Lepidoptera,Scoparia ulmella,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+188,Arthropoda,Insecta,Lepidoptera,Bactra furfurana,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+189,Arthropoda,Insecta,Lepidoptera,Bactra robustana,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+190,Arthropoda,Insecta,Lepidoptera,Bactra lacteana,,,Female,Female,,On the sex chromosome trivalent in some Lepidoptera females,E. Suomalainen,1969,Ibid,
+191,Arthropoda,Insecta,Lepidoptera,Lozotaenia forsterana,,,Female,Female,,"Unequal sex chromosomes in a moth, Lozotaenia forsterana",E. Suomalainen,1971,HEREDITAS,
+81,Arthropoda,Insecta,Hemiptera,Protortonia sp,,,Male,Male,,,F. Schrader,1931,Z. Wiss. Zool. 138,386-408
+59,Arthropoda,Arachnida,Scorpiones,Chthonius diophthalmus,2,16,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+60,Arthropoda,Arachnida,Scorpiones,Chthonius litoralis,2,17,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+61,Arthropoda,Arachnida,Scorpiones,Chthonius orthodactylus,2,16,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+62,Arthropoda,Arachnida,Scorpiones,Chthonius tenuis,2,17,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+63,Arthropoda,Arachnida,Scorpiones,Chthonius fucimanus,2,17,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+64,Arthropoda,Arachnida,Scorpiones,Chthonius tetrachelatus,2,17,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+65,Arthropoda,Arachnida,Scorpiones,Chthonius sp1,2,14,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+66,Arthropoda,Arachnida,Scorpiones,Chthonius sp2,2,10,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+67,Arthropoda,Arachnida,Scorpiones,Mundochtonius styriacus,2,18,Male,unknown,,Karyotype analysis and achiasmatic meiosis in pseudoscorpions of the family Chthoniidae (Arachnida: Pseudoscorpiones).,F. Stahlavsky,2004,Hereditas 140,49-60
+115,Arthropoda,Insecta,Mecoptera,Panorpa communis,2,23,Male,Male,,[Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].,F. Ulerich,1961,Chromosoma 12,215-232
+116,Arthropoda,Insecta,Mecoptera,Panorpa cognata,2,22,Male,Male,,[Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].,F. Ulerich,1961,Chromosoma 12,215-232
+135,Arthropoda,Insecta,Diptera,Chrysomya chloropyga,2,8,Male,Male,,"Chromosomenverhaltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
+136,Arthropoda,Insecta,Diptera,Chrysomya putoria,2,8,Male,Male,,"Chromosomenverhaltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
+137,Arthropoda,Insecta,Diptera,Chrysomya varipes,2,8,Male,Male,,"Chromosomenverhaltnisse, konstitutives Heterochromatin und Geschlechtsbestimmung bei einigen Arten der Gattung Chrysomya (Calliphoridae, Diptera)",F. Ullerich,1976,Chromosoma 58,113-136
+168,Arthropoda,Insecta,Mantodea,Bolbe nigra,,10-13,Male,Male,,SYNAPTINEMAL COMPLEXES IN ACHIASMATIC SPERMATOGENESIS OF BOLBE NIGRA GIGLIO-TOS (MANTOIDEA),G. Gassner,1969,Chromosoma 26(1),
+249,Chordata,Mammalia,Rodentia,Mus dunni,2,,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,G. Matioli,1994,MEDICAL HYPOTHESES,
+179,Arthropoda,Insecta,Lepidoptera,Erebia medusa polaris,,,Female,Female,,Chromosomenzahlen finnlandischer Lepidopteren,H. Federley,1938,HEREDITAS,
+39,Arthropoda,Arachnida,Acariformes,Eylais sp,,,Male,Male,,ZUR KARYOLOGIE DER HYDI~ACHNELLEN (ACARINA),H. Keyl,1957,Chromosoma 8,719-729
+40,Arthropoda,Arachnida,Trombidiformes,Hydrodroma sp,,,Male,unknown,,ZUR KARYOLOGIE DER HYDI~ACHNELLEN (ACARINA),H. Keyl,1957,Chromosoma 8,719-729
+1,Mollusca,Gastropoda,Stylommatophora,Mesostoma sp,2,5,Female,unknown,,"Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela)",H. Oakley,1982,Chromosoma,311-322
+2,Mollusca,Gastropoda,Stylommatophora,Mesostoma sp,2,5,Female,unknown,,"Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela)",H. Oakley,1982,Chromosoma,133-147
+142,Platyhelminthes,Rhabditophora,Rhabdocoela,Mesostoma ehrenbergii,2,5,Female,unknown,,"Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela) II. Synaptonemal complexes, chromosome pairing and disjunction in achiasmate oogenesis",H. Oakley,1982,Chromosoma 87,133-147
+143,Platyhelminthes,Rhabditophora,Rhabdocoela,Mesostoma ehrenbergii,2,5,Female,unknown,,"Meiosis in Mesostoma ehrenbergii ehrenbergii (Turbellaria, Rhabdocoela) II. Synaptonemal complexes, chromosome pairing and disjunction in achiasmate oogenesis",H. Oakley,1982,Chromosoma 85,311-322
+134,Arthropoda,Insecta,Diptera,Cochliomyia hominivorax,,,Male,Male,,A reciprocal translocation in cochliomyia hominivorax (diptera: calliphoridae). genetic and cytological evidence for preferential segregation in males.,I. La Chance,1964,Genetics 49,959-972
+129,Arthropoda,Insecta,Diptera,Trichosia pubescens,,,Male,Male,,Spermatogenesis in Trichosia pubescens (Diptera:Sciaridae).,J. Amabis,1979,J. Cell Sci. 36,199-213
+140,Arthropoda,Insecta,Diptera,Ceratitis capitata,,,Male,Male,,Absence of recombination in the male of Ceratitis capitata.,J. Caldera,1981,Experientia 37,342-343
+156,Arthropoda,Insecta,Lepidoptera,Cameraria ohridella,2,60,Female,Female,,The karyotype of Cameraria ohridella (Lepidoptera: Gracillariidae),J. De Prins,2002,Phegea 30,5-10
+241,Arthropoda,Insecta,Lepidoptera,Helicoverpa armigera,,,Female,Female,,"KARYOTYPE AND ACHIASMATIC FEMALE MEIOSIS IN HELICOVERPA-ARMIGERA (HUBNER) AND H-PUNCTIGERA (WALLENGREN) (LEPIDOPTERA, NOCTUIDAE)",J. Fisk,1989,Genome,
+242,Arthropoda,Insecta,Lepidoptera,Helicoverpa punctigera,,,Female,Female,,"KARYOTYPE AND ACHIASMATIC FEMALE MEIOSIS IN HELICOVERPA-ARMIGERA (HUBNER) AND H-PUNCTIGERA (WALLENGREN) (LEPIDOPTERA, NOCTUIDAE)",J. Fisk,1989,Genome,
+248,Arthropoda,Insecta,Coleoptera,Distocupes varians,,9,Male,Male,,"1ST KARYOTYPIC DATA ON A CUPEDID BEETLE (COLEOPTERA, ARCHOSTEMATA) SHOWING ACHIASMATIC MEIOSIS",J. Galian,1993,ENTOMOLOGICAL NEWS,
+98,Arthropoda,Insecta,Coleoptera,Pogonus chalceus,2,22,Male,Male,,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+99,Arthropoda,Insecta,Coleoptera,Tachyura parvula,,,Male,Male,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+100,Arthropoda,Insecta,Coleoptera,Trechus obtusus,,,Male,Male,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+101,Arthropoda,Insecta,Coleoptera,Trechus quadristriatus,,,Male,Male,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+102,Arthropoda,Insecta,Coleoptera,Perileptus areolatus,,,Male,Male,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+103,Arthropoda,Insecta,Coleoptera,Egadroma marginatum,2,39,Male,Male,Speculative,"Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga)",J. Serrano,1981,Genetica 57,131-137
+109,Arthropoda,Insecta,Lepidoptera,Helicontius erato,,,Female,Female,,Absence of crossing-over in female butterflies (Heliconius).,J. Turner,1975,Heredity 34,265-269
+110,Arthropoda,Insecta,Lepidoptera,Helicontius melpomene,,,Female,Female,,Absence of crossing-over in female butterflies (Heliconius).,J. Turner,1975,Heredity 34,265-269
+169,Arthropoda,Insecta,Lepidoptera,Argraulis vanillae,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+170,Arthropoda,Insecta,Lepidoptera,Dryadula phaetusa,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+171,Arthropoda,Insecta,Lepidoptera,Heliconius isabella,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+172,Arthropoda,Insecta,Lepidoptera,Heliconius aliphera,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+173,Arthropoda,Insecta,Lepidoptera,Heliconius doris,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+174,Arthropoda,Insecta,Lepidoptera,Heliconius ethilla,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+175,Arthropoda,Insecta,Lepidoptera,Heliconius melpomene,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+176,Arthropoda,Insecta,Lepidoptera,Heliconius erato,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+177,Arthropoda,Insecta,Lepidoptera,Heliconius sara,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+178,Arthropoda,Insecta,Lepidoptera,Heliconius ricini,,,Female,Female,,ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES,J. Turner,1973,HEREDITAS 74(2),302-304
+132,Arthropoda,Insecta,Diptera,Simulium aurem,1,2,Male,Male,,Achiasmate meiosis and centromere shift in Eusimulium aureum (Diptera-Simuliidae).,K. Rothfels,1975,Chromosoma 51,111-124
+133,Arthropoda,Insecta,Diptera,Prosimulium decemarticulatum,1,3,Male,Male,,Achiasmate meiosis and centromere shift in Eusimulium aureum (Diptera-Simuliidae).,K. Rothfels,1975,Chromosoma 51,111-124
+154,Arthropoda,Insecta,Diptera,Drosophila albomicans,2,6,Male,Male,,Ancestral male recombination in Drosophila albomicans produced geographically restricted neo-Y chromosome haplotypes varying in age and onset of decay.,K. Wei,2019,PLOS Genetics 15(11),
+240,Chordata,Mammalia,Rodentia,Microtus agrestis,,,Male,Male,only sex chromosomes achiasmatic,Meiotic association and segregation of the achiasmatic giant sex chromosomes in the male field vole (Microtus agrestis),K. Wolf,1988,CHROMOSOMA 97,124-133
+251,Arthropoda,Insecta,Lepidoptera,Yponomeuta padellus,,,Female,Female,,"Inheritance and linkage of isozymes in Yponomeuta padellus (Lepidoptera, yponomeutidae)",L. Raijmann,1997,HEREDITY 78,645-654
+139,Arthropoda,Insecta,Diptera,Hylemya antiqua,1,10,Male,Male,,"Meiotic segregation of five different reciprocal translocations in the onion fly, Hylemya antiqua (Meigen).",L. Vosselman,1981,Chromosoma 81,727-738
+78,Arthropoda,Insecta,Mantodea,Humbertiella indica,2,30,Male,Male,,On the chromosome morphology of humbertiella indica saussure,M. Dutt,1954,Caryologia 6,117-123
+138,Arthropoda,Insecta,Diptera,Protocalliphora falcozi,2,12,Male,Male,,"Karyotype of the bird blowfly, Protocalliphora falcozi Séguy, 1928 (Diptera, Calliphoridae).",M. Holecova,2012,Folia Biologica 60,129-133
+44,Arthropoda,Arachnida,Scorpiones,Androctonus australis,2,12,Male,unknown,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
+45,Arthropoda,Arachnida,Scorpiones,Androctonus bicolor,2,12,Male,unknown,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
+46,Arthropoda,Arachnida,Scorpiones,Androctonus amoreuxi,2,12,Male,unknown,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
+47,Arthropoda,Arachnida,Scorpiones,Androctonus crassicauda,2,12,Male,unknown,,Chromosomal studies on four egyptian scorpion species of genus androctonus (family: buthidae),M. Moustafa,2005,Cytologia 70,161-165
+245,Arthropoda,Insecta,Coleoptera,Pogonus persicus,,10,Male,Male,,"KARYOLOGICAL ANALYSIS OF ACUPALPUS (STENOLOPHUS) TEUTONUS (SCHRANK) AND POGONUS-PERSICUS (CHAUD) (COLEOPTERA, CARABIDAE)",M. Rozek,1992,FOLIA BIOLOGICA 40(3-4),113-118
+167,Arthropoda,Insecta,Coleoptera,Trechus latus,2,11,Male,Male,,"KARYOLOGICAL STUDIES ON TRECHINAE (COLEOPTERA, CARABIDAE). III. KARYOTYPE OF TRECHUS LATUS PUTZ. AND TRECHUS QUADRISTRIATUS (SCHR.)",M. Rozek,1985,Carylogia 38(3-4),371-375
+42,Arthropoda,Arachnida,Scorpiones,Heterometrus palamnaeus,2,30,Male,unknown,,Absence of chiasmata and formation of a complex chromosomal body in the spermatogenesis of the scorpion palamnaeus longimanus,M. Srivastava,1961,Caryologia 14,63-77
+246,Arthropoda,Insecta,Psocodea,Haematopinus suis,,10,Male,unknown,,"MEIOSIS IN HAEMATOPINUS-SUIS AND MENACANTHUS-STRAMINEUS (PHTHIRAPTERA, INSECTA)",M. Tombesi,1993,Hereditas 119(1),31-38
+247,Arthropoda,Insecta,Psocodea,Menacanthus stramineus,,10,Male,unknown,,"MEIOSIS IN HAEMATOPINUS-SUIS AND MENACANTHUS-STRAMINEUS (PHTHIRAPTERA, INSECTA)",M. Tombesi,1993,Hereditas 119(1),31-38
+75,Arthropoda,Insecta,Mantodea,Callimantis antillarum,2,,Male,Male,,"A new and anomalous type of meiosis in a mantid, Callimantis antillarum saussure",M. White,1938,Proc. Roy. Soc. B 125,516-523
+73,Arthropoda,Insecta,Orthoptera,Whitea sp,2,19,Male,Male,,Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers,M. White,1965,Chromosoma 16,271-307
+74,Arthropoda,Insecta,Mantodea,Whitea sp,2,21,Male,Male,,Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers,M. White,1965,Chromosoma 16,271-307
+79,Arthropoda,Insecta,Mantodea,Bolbe pallida,2,25,Male,Male,,Sex chromosomes and meiotic mechanisms in some African and Australian mantids.,M. White,1965,Chromosoma 16,521-547
+80,Arthropoda,Insecta,Mantodea,Harpagomantis sp,2,25,Male,Male,,Sex chromosomes and meiotic mechanisms in some African and Australian mantids.,M. White,1965,Chromosoma 17,521-548
+236,Arthropoda,Insecta,Mantodea,Ima fusca,,17,Male,Male,,XY SEX-CHROMOSOME MECHANISM IN A MANTID WITH ACHIASMATIC MEIOSIS,M. White,1975,CHROMOSOMA 51(1),93-97
+43,Arthropoda,Arachnida,Scorpiones,Tityus bahiensis,3,6,Male,unknown,,CHROMOSOMES WITH TWO SPINDLE ATTACHMENTS*,P. Toledo,1941,The Journal of Heredity 13(12),423-426
+238,Mollusca,Gastropoda,Littorinimorpha,Bithynia leachi,,,Male,unknown,,LINKAGE RELATIONSHIPS AMONG 5 ENZYME-CODING GENE LOCI IN THE COPEPOD TIGRIOPUS-CALIFORNICUS - A GENETIC CONFIRMATION OF ACHIASMATIC MEIOSIS,R. Burton,1981,BIOCHEMICAL GENETICS 19(11-12),1237-1245
+162,Chordata,Mammalia,Rodentia,Microtus duodecimcostatus,2,30,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,R. de la Fuente,2012,Chromosoma 121,433-446
+158,Chordata,Mammalia,Rodentia,Meriones unguiculatus,2,22,Male,Male,,Meiotic pairing and segregation of achiasmate sex chromosomes in eutherian mammals: the role of SYCP3 protein.,R. Fuente,2007,PloS Genetica 3(11),
+244,Chordata,Mammalia,Rodentia,Microtus cabrerae,,,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,R. Jimenez,1992,CYTOGENETICS AND CELL GENETICS,
+41,Arthropoda,Arachnida,Araneae,Dysdera crocota,2,5,Male,Male,,"Cytogenetic heterogeneity in common haplogyne spiders from argentina (arachnida, araneae)",S. Gil,2002,Journal of Arachnology 30(1),131-137
+94,Arthropoda,Insecta,Hemiptera,Cimex sp,2,33,Male,Male,,"Achiasmatic male meiosis in Cimex sp. (Heteroptera, Cimicidae)",S. Grozeva,2002,Caryologia 55,189-192
+76,Arthropoda,Insecta,Mantodea,Mantoida schraderi,2,37-38,Male,Male,,The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.,S. Hughes-Schrader,1950,Chrromosoma 4,1-55
+77,Arthropoda,Insecta,Mantodea,Pseudomiopteryx infuscata,2,18,Male,Male,-,The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.,S. Hughes-Schrader,1950,Chrromosoma 4,1-55
+95,Arthropoda,Insecta,Hemiptera,Tenagobia fuscata,2,30,Male,Male,,"Achiasmatic male meiosis in Tenagobia (Fuscagobia) fuscata (Stål) (Heteroptera, Corixoidea, Micronectidae).",S. Iituarte,2004,Genetica 122,199-206
+93,Arthropoda,Insecta,Hemiptera,Myrmedobia exilis,2,14,Male,Male,,"Achiasmatic male meiosis in Myrmedobia coleoptrata (Fn.) (Heteroptera, Microphysidae)",S. Nokkala,2000,Caryologia 55,5-8
+166,Arthropoda,Insecta,Hemiptera,Myrmedobia coleopterata,2,7,Male,Male,,"Achiasmatic male meiosis in Myrmedobia coleoptrata(Fn.) (Heteroptera, Microphysidae)",S. Nokkala,2000,"International Journal of Cytology, Cytosystematics and Cytogenetics 53(1)",5-8
+85,Arthropoda,Insecta,Hemiptera,Nabis brevis,2,18,Male,Male,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nokkala,1984,Heredias 101,31-35
+86,Arthropoda,Insecta,Hemiptera,Nabis flavomarginatus,2,18,Male,Male,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nokkala,1984,Heredias 101,31-35
+87,Arthropoda,Insecta,Hemiptera,Nabis limbatus,2,18,Male,Male,,"Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera)",S. Nokkala,1984,Heredias 101,31-35
+83,Arthropoda,Insecta,Hemiptera,Saldula orthochila,2,36,Male,Male,,"Achiasmatic male meiosis in two species of Saldula (Saldidae, Hemiptera).",S. Nokkala,1983,Hereditas 99,31-35
+84,Arthropoda,Insecta,Hemiptera,Saldula saltatoria,2,38,Male,Male,,"Achiasmatic male meiosis in two species of Saldula (Saldidae, Hemiptera).",S. Nokkala,1983,Hereditas 99,31-36
+88,Arthropoda,Insecta,Hemiptera,Capsus ater,2,32,Male,Male,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nokkala,1986,Heredias 105,193-197
+89,Arthropoda,Insecta,Hemiptera,Calocoris quadripunctatus,,,Male,Male,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nokkala,1986,Heredias 105,193-198
+90,Arthropoda,Insecta,Hemiptera,Philophorus cinnamopterus,2,17,Male,Male,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nokkala,1986,Heredias 105,193-199
+91,Arthropoda,Insecta,Hemiptera,Plagiognathus arbustorum,,,Male,Male,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nokkala,1986,Heredias 105,193-200
+92,Arthropoda,Insecta,Hemiptera,Anthocoris nemorum,2,16,Male,Male,,Achiasmatic male meiosis of collochore type in the heteropteran family Miridae,S. Nokkala,1986,Hereditas 105,287-289
+159,Arthropoda,Insecta,Hemiptera,cacopsylla perengrina,,13,Male,Male,,"The origin of the achiasmatic XY sex chromosome system in Cacopsylla peregrina (Frst.) (Psylloidea, Homoptera).",S. Nokkala,2003,Genetica 119,327-332
+37,Tardigrada,Eutardigrada,Parachaela,Richtersius coronifer,2,6,Male,unknown,,"First evidence of achiasmatic male meiosis in the water bears Richtersius coronifer and Macrobiotus richtersi (Eutardigrada, Macrobiotidae).",T. Altiero,2003,Hereditas 139(2),116-120
+38,Tardigrada,Eutardigrada,Parachaela,Macrobiotus richtersi,2,6,Male,unknown,,"First evidence of achiasmatic male meiosis in the water bears Richtersius coronifer and Macrobiotus richtersi (Eutardigrada, Macrobiotidae).",T. Altiero,2003,Hereditas 139(2),116-120
+163,Chordata,Mammalia,Rodentia,Psammomys obesus,2,23,Male,Male,,"End association and segregation of the achiasmatic X and Y chromosomes of the sand rat, Psammomys obesus.",T. Ashley,1980,Chromosoma 78,203-210
+130,Arthropoda,Insecta,Diptera,Glossina austeni,,,Male,Male,,The fine structure of sperm development in Glossina,T. Craig-Cameron,1973,Transactions of the Royal Society of Tropical Medicine and Hygiene 66,303-304
+131,Arthropoda,Insecta,Diptera,Glossina morsitans,,,Male,Male,,The fine structure of sperm development in Glossina,T. Craig-Cameron,1973,Transactions of the Royal Society of Tropical Medicine and Hygiene 67,303-304
+3,Mollusca,Bivalvia,Sphaeriida,Sphaerium corneum,2,15,Both,unknown,,Structure and meiotic behaviour of B chromosomes in Sphaerium corneum/S. nucleus complex (Bivalvia: Sphaeriidae).,T. Korinkova,2011,Genetica,155-165
+4,Mollusca,Bivalvia,Sphaeriida,Sphaerium nucleus,2,15,Both,unknown,,Structure and meiotic behaviour of B chromosomes in Sphaerium corneum/S. nucleus complex (Bivalvia: Sphaeriidae).,T. Korinkova,2011,Genetica,155-165
+108,Arthropoda,Insecta,Lepidoptera,Galleria mellon,,,Female,Female,,Genetical studies on the wax moth galleria mellonella linn.,T. Smith,1938,Genetics 23,115-137
+82,Arthropoda,Insecta,Hemiptera,Palatoria oleae,2,8,Male,Male,,"A modified Comstockiella chromosome system in the olive scale insect, Parlatoria oleae (Coccoidea: Diaspididae).",U. Nur,1965,Chromosoma 17,104-120
+157,Arthropoda,Insecta,Trichoptera,Limnephilus lunatus,2,25,Female,Female,,Sex chromatin and sex chromosome systems in nonditrysian Lepidoptera (Insecta),V. Lukhtanov,2000,Journal of Zoological Systematics and evolutionary research 38,73-79
+48,Arthropoda,Arachnida,Scorpiones,Anateris balzanii,2,7,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+49,Arthropoda,Arachnida,Scorpiones,Rhopalurus agamemnon,2,14,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+50,Arthropoda,Arachnida,Scorpiones,Rhopalurus rochai,2,14,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+51,Arthropoda,Arachnida,Scorpiones,Tityus maranhensis,2,10,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+52,Arthropoda,Arachnida,Scorpiones,Tityus paraguayensis,2,8,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+53,Arthropoda,Arachnida,Scorpiones,Tityus bahiensis,2,3,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+54,Arthropoda,Arachnida,Scorpiones,Tityus confluens,2,6,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+55,Arthropoda,Arachnida,Scorpiones,Tityus costatus,2,8,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+56,Arthropoda,Arachnida,Scorpiones,Tityus fasciolatus,2,7,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+57,Arthropoda,Arachnida,Scorpiones,Tityus  martinpaechi,2,3,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+58,Arthropoda,Arachnida,Scorpiones,Tityus stigmurus,2,8,Male,unknown,,High chromosome variability and the presence of multivalent associations in buthid scorpions.,V. Mattos,2013,Chromosome Res 21(2),121-136
+111,Arthropoda,Insecta,Mecoptera,Bittacus pilicornis,2,15,Male,Male,,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
+112,Arthropoda,Insecta,Mecoptera,Bittacus stigmaterus,2,16,Male,Male,,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
+113,Arthropoda,Insecta,Mecoptera,Panorpa anomala,2,23,Male,Male,,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
+114,Arthropoda,Insecta,Mecoptera,Panorpa acuta,2,23,Male,Male,,CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA,W. Atchly,1970,Can. J. Genet. Cytol. 12,264-272
+68,Arthropoda,Crustacea,Copepoda,Ectocyclops sp,,,Female,unknown,,Weibliche heterogametie bei copepoden,W. Beermann,1953,Chromosoma 6,381-396
+127,Arthropoda,Insecta,Diptera,Cnephia dacotensis,,,Male,Male,,A cytological study of two closely related blackfly species: Cnephia dacotensis and Cnephia ornithophilia (Diptera: Simuliidae).,W. Procunier,1975,Can. J. Zool. 53,1622-1637
+128,Arthropoda,Insecta,Diptera,Cnephia ornithophilia,,,Male,Male,,A cytological study of two closely related blackfly species: Cnephia dacotensis and Cnephia ornithophilia (Diptera: Simuliidae).,W. Procunier,1975,Can. J. Zool. 53,1622-1637
+107,Arthropoda,Insecta,Lepidoptera,Ephestia kuehniella,2,30,Female,Female,,"A study of recombination, formation of chiasmata and synaptonemal complexes in female and male meiosis of Ephestia kuehniella (Lepidoptera)",W. Traut,1977,Genetica 47,135
+250,Arthropoda,Insecta,Lepidoptera,Orgyia thyellina,,11,Female,Female,,"Cytogenetics of a moth species with a low chromosome number, Orgyia thyellina",W. Traut,1996,HEREDITAS,
+120,Arthropoda,Insecta,Mecoptera,Cerapanorpa brevicornis,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+121,Arthropoda,Insecta,Mecoptera,Cerapanorpa byersi,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+122,Arthropoda,Insecta,Mecoptera,Cerapanorpa dubia,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+123,Arthropoda,Insecta,Mecoptera,Cerapanorpa nanwutaina,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+124,Arthropoda,Insecta,Mecoptera,Cerapanorpa obtusa,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+125,Arthropoda,Insecta,Mecoptera,Cerapanorpa protrudens,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+126,Arthropoda,Insecta,Mecoptera,Cerapanorpa sinuata,2,43,Male,Male,,"Cytotaxonomy and molecular phylogeny of the genus Cerapanorpa Gao, Ma & Hua, 2016 (Mecoptera: Panorpidae).",Y. Miao,2017,Sci. Rep. 7,4493
+164,Arthropoda,Insecta,Diptera,Drosophila simulans,,,Male,Male,,A sex-ratio meiotic drive system in Drosophila simulans. II: an X-linked distorter.,Y. Tao,2007,PLOS Biology 5(11),2576-2588
+252,Chordata,Mammalia,Rodentia,Microtus afghanus,2,28,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+253,Chordata,Mammalia,Rodentia,Microtus buharicus,2,23,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+254,Chordata,Mammalia,Rodentia,Microtus juldaschi,2,26,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+255,Chordata,Mammalia,Rodentia,Microtus brandtii,2,16,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+256,Chordata,Mammalia,Rodentia,Microtus arvalis,2,22,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+257,Chordata,Mammalia,Rodentia,Microtus guentheri,2,25-26,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+258,Chordata,Mammalia,Rodentia,Microtus kirgisorum,2,26,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+259,Chordata,Mammalia,Rodentia,Microtus rossiaemeridionalis,2,26,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+260,Chordata,Mammalia,Rodentia,Microtus socialis,2,30,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+261,Chordata,Mammalia,Rodentia,Microtus transcaspicus,2,25,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+262,Chordata,Mammalia,Rodentia,Microtus mexicanus,2,23,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+263,Chordata,Mammalia,Rodentia,Microtus gregalis,2,17,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+264,Chordata,Mammalia,Rodentia,Microtus majori,2,26,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+265,Chordata,Mammalia,Rodentia,Microtus subterraneus,2,25,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+266,Chordata,Mammalia,Rodentia,Microtus thomasi,2,18-21,Male,Male,only sex chromosomes achiasmatic,One more Microtus species with asynaptic sex chromosomes,,,,
+144,Arthropoda,Insecta,Diptera,Drosophila melanogaster,2,4,Male,Male,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+145,Arthropoda,Insecta,Trichoptera,Allogamus auricollis,2,30,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+146,Arthropoda,Insecta,Trichoptera,Glyphotaelius pellucidus,2,30,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+147,Arthropoda,Insecta,Lepidoptera,Antheraea assamensis,2,15,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+148,Arthropoda,Insecta,Lepidoptera,Bombyx mori,2,28,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+149,Arthropoda,Insecta,Lepidoptera,Byblia ilithyia,2,17,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+150,Arthropoda,Insecta,Lepidoptera,Ephestia kuehniella,2,30,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+151,Arthropoda,Insecta,Lepidoptera,Philosamia ricini,2,14,Female,Female,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
+152,Arthropoda,Insecta,Hymenoptera,Aphytis mytilaspidis,2,5,Male,unknown,,Sex differences in recombination,A. Burt,1991,Journal of Evolutionary Biology 4(2),259-277
