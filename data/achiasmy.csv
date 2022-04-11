@@ -115,7 +115,7 @@ Achiasmy,Arthropoda,Insecta,Lepidoptera,,Heliconius erato,,achiasmatic,,,,Female
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Heliconius sara,,achiasmatic,,,,Female,ZW,,,J. Turner. 1973. ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES. HEREDITAS 74(2): 302-304
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Heliconius ricini,,achiasmatic,,,,Female,ZW,,,J. Turner. 1973. ACHIASMATIC OOGENESIS IN HELICONIINE BUTTERFLIES. HEREDITAS 74(2): 302-304
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Yponomeuta padellus,,achiasmatic,,,,Female,ZW,,,"L. Raijmann. 1997. Inheritance and linkage of isozymes in Yponomeuta padellus (Lepidoptera, yponomeutidae). HEREDITY 78: 645-654"
-Achiasmy,Arthropoda,Insecta,Mantodea,,Callimantis antillarum,,achiasmatic,2,,,Male,XY,,,"M. White. 1938. A new and anomalous type of meiosis in a mantid, Callimantis antillarum saussure. Proc. Roy. Soc. B 125: 516-523"
+Achiasmy,Arthropoda,Insecta,Mantodea,,Callimantis antillarum,,achiasmatic,2,,,Male,,,,"M. White. 1938. A new and anomalous type of meiosis in a mantid, Callimantis antillarum saussure. Proc. Roy. Soc. B 125: 516-523"
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Calocoris quadripunctatus,,achiasmatic,,,,Male,XY,,,S. Nokkala. 1986. Achiasmatic male meiosis of collochore type in the heteropteran family Miridae. Heredias 105: 193-198
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Plagiognathus arbustorum,,achiasmatic,,,,Male,XY,,,S. Nokkala. 1986. Achiasmatic male meiosis of collochore type in the heteropteran family Miridae. Heredias 105: 193-200
 Achiasmy,Arthropoda,Insecta,Diptera,,Glossina austeni,,achiasmatic,,,,Male,XY,,,T. Craig-Cameron. 1973. The fine structure of sperm development in Glossina. Transactions of the Royal Society of Tropical Medicine and Hygiene 66: 303-304
@@ -155,10 +155,10 @@ Achiasmy,Arthropoda,Insecta,Lepidoptera,,Antheraea assamensis,,achiasmatic,2,32,
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Anthocoris nemorum,,achiasmatic,2,34,34,Male,XY,,,S. Nokkala. 1986. Achiasmatic male meiosis of collochore type in the heteropteran family Miridae. Hereditas 105: 287-289
 Achiasmy,Arthropoda,Insecta,Mecoptera,,Bittacus stigmaterus,,achiasmatic,2,34,34,Male,XY,,,W. Atchly. 1970. CYTOLOGICAL OBSERVATIONS ON SPERMATOGENESIS IN FOUR SPECIES OF MECOPTERA. Can. J. Genet. Cytol. 12: 264-272
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Lampropteryx minna,,achiasmatic,,36,36,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
-Achiasmy,Arthropoda,Insecta,Mantodea,,Ima fusca,,achiasmatic,,36,36,Male,XY,,,M. White. 1975. XY SEX-CHROMOSOME MECHANISM IN A MANTID WITH ACHIASMATIC MEIOSIS. CHROMOSOMA 51(1): 93-97
+Achiasmy,Arthropoda,Insecta,Mantodea,,Ima fusca,,achiasmatic,,36,36,Male,,,,M. White. 1975. XY SEX-CHROMOSOME MECHANISM IN A MANTID WITH ACHIASMATIC MEIOSIS. CHROMOSOMA 51(1): 93-97
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Philophorus cinnamopterus,,achiasmatic,2,36,36,Male,XY,,,S. Nokkala. 1986. Achiasmatic male meiosis of collochore type in the heteropteran family Miridae. Heredias 105: 193-199
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Byblia ilithyia,,achiasmatic,2,36,36,Female,ZW,,,A. Burt. 1991. Sex differences in recombination. Journal of Evolutionary Biology 4(2): 259-277
-Achiasmy,Arthropoda,Insecta,Mantodea,,Pseudomiopteryx infuscata,,achiasmatic,2,38,38,Male,XY,,,S. Hughes-Schrader. 1950. The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.. Chrromosoma 4: 20090
+Achiasmy,Arthropoda,Insecta,Mantodea,,Pseudomiopteryx infuscata,,achiasmatic,2,38,38,Male,,,,S. Hughes-Schrader. 1950. The chromosomes of mantids (Orthoptera; Manteidae) in relation to taxonomy.. Chrromosoma 4: 20090
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Nabis brevis,,achiasmatic,2,38,38,Male,XY,,,"S. Nokkala. 1984. Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera). Hereditas 101: 31-35"
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Nabis flavomarginatus,,achiasmatic,2,38,38,Male,XY,,,"S. Nokkala. 1984. Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera). Hereditas 102: 31-35"
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Nabis limbatus,,achiasmatic,2,38,38,Male,XY,,,"S. Nokkala. 1984. Achiasmatic male meiosis in the Heteropteran genus Nabis (Nabidae, Hemiptera). Hereditas 103: 31-35"
@@ -168,7 +168,7 @@ Achiasmy,Arthropoda,Insecta,Mecoptera,,Panorpa emarginata,,achiasmatic,2,42,42,M
 Achiasmy,Arthropoda,Insecta,Mecoptera,,Panorpa dubia,,achiasmatic,2,42,42,Male,XY,,,"B. Xu. 2013. A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).. Comp. Cytogenet. 23: 229-239"
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Thera cognata,,achiasmatic,,42,42,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
 Achiasmy,Arthropoda,Insecta,Mecoptera,,Neopanorpa lui,,achiasmatic,2,44,44,Male,XY,,,"B. Xu. 2013. A chromosomal investigation of four species of Chinese Panorpidae (Insecta, Mecoptera).. Comp. Cytogenet. 23: 229-239"
-Achiasmy,Arthropoda,Insecta,Mantodea,,Whitea sp,,achiasmatic,2,44,44,Male,XY,,,M. White. 1965. Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers. Chromosoma 16: 271-307
+Achiasmy,Arthropoda,Insecta,Mantodea,,Whitea sp,,achiasmatic,2,44,44,Male,,,,M. White. 1965. Chiasmatic and achiasmatic meiosis in African Eumastacid grasshoppers. Chromosoma 16: 271-307
 Achiasmy,Arthropoda,Insecta,Mecoptera,,Panorpa cognata,,achiasmatic,2,46,46,Male,XY,,,F. Ulerich. 1961. [Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].. Chromosoma 12: 215-232
 Achiasmy,Arthropoda,Insecta,Coleoptera,,Pogonus chalceus,,achiasmatic,2,46,46,Male,XY,,,"J. Serrano. 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica 57: 131-137"
 Achiasmy,Arthropoda,Insecta,Mecoptera,,Panorpa communis,,achiasmatic,2,48,48,Male,XY,,,F. Ulerich. 1961. [Achiasmatic spermatogenesis in the scorpion fly Panorpa (Mecoptera)].. Chromosoma 12: 215-232
@@ -177,8 +177,8 @@ Achiasmy,Arthropoda,Insecta,Mecoptera,,Panorpa acuta,,achiasmatic,2,48,48,Male,X
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Cymatia cleoptrata,,achiasmatic,2,50,50,Male,XY,,,"D. Stoianova. 2015. Achiasmate male meiosis in two Cymatia species (Hemiptera, Heteroptera, Corixidae).. ZooKeys 538: 95-105"
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Perizoma affinitata,,achiasmatic,,52,52,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Perizoma hydrata,,achiasmatic,,52,52,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
-Achiasmy,Arthropoda,Insecta,Mantodea,,Bolbe pallida,,achiasmatic,2,52,52,Male,XY,,,M. White. 1965. Sex chromosomes and meiotic mechanisms in some African and Australian mantids.. Chromosoma 16: 521-547
-Achiasmy,Arthropoda,Insecta,Mantodea,,Harpagomantis sp,,achiasmatic,2,52,52,Male,XY,,,M. White. 1965. Sex chromosomes and meiotic mechanisms in some African and Australian mantids.. Chromosoma 17: 521-548
+Achiasmy,Arthropoda,Insecta,Mantodea,,Bolbe pallida,,achiasmatic,2,52,52,Male,,,,M. White. 1965. Sex chromosomes and meiotic mechanisms in some African and Australian mantids.. Chromosoma 16: 521-547
+Achiasmy,Arthropoda,Insecta,Mantodea,,Harpagomantis sp,,achiasmatic,2,52,52,Male,,,,M. White. 1965. Sex chromosomes and meiotic mechanisms in some African and Australian mantids.. Chromosoma 17: 521-548
 Achiasmy,Arthropoda,Insecta,Trichoptera,,Limnephilus lunatus,,achiasmatic,2,52,52,Female,ZW,,,V. Lukhtanov. 2000. Sex chromatin and sex chromosome systems in nonditrysian Lepidoptera (Insecta). Journal of Zoological Systematics and evolutionary research 38: 73-79
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Colostygia didymata,,achiasmatic,,56,56,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Hydriomena furcata,,achiasmatic,,58,58,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
@@ -201,7 +201,7 @@ Achiasmy,Arthropoda,Insecta,Lepidoptera,,Perizoma flavofasciata,,achiasmatic,,62
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Hydriomena coerulata,,achiasmatic,,62,62,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Hydriomena ruberata,,achiasmatic,,62,62,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Hydrelia flammeolaria,,achiasmatic,,62,62,Female,ZW,,,E. Suomalainen. 1965. On the chromosomes of the geometrid moth genus Cidaria. CHROMOSOMA 16: 166-184
-Achiasmy,Arthropoda,Insecta,Mantodea,,Humbertiella indica,,achiasmatic,2,62,62,Male,XY,,,M. Dutt. 1954. On the chromosome morphology of humbertiella indica saussure. Caryologia 6: 117-123
+Achiasmy,Arthropoda,Insecta,Mantodea,,Humbertiella indica,,achiasmatic,2,62,62,Male,,,,M. Dutt. 1954. On the chromosome morphology of humbertiella indica saussure. Caryologia 6: 117-123
 Achiasmy,Arthropoda,Insecta,Hemiptera,,Tenagobia fuscata,,achiasmatic,2,62,62,Male,XY,,,"S. Iituarte. 2004. Achiasmatic male meiosis in Tenagobia (Fuscagobia) fuscata (Stål) (Heteroptera, Corixoidea, Micronectidae).. Genetica 122: 199-206"
 Achiasmy,Arthropoda,Insecta,Lepidoptera,,Ephestia kuehniella,,achiasmatic,2,62,62,Female,ZW,,,"W. Traut. 1977. A study of recombination, formation of chiasmata and synaptonemal complexes in female and male meiosis of Ephestia kuehniella (Lepidoptera). Genetica 47: 135"
 Achiasmy,Arthropoda,Insecta,Trichoptera,,Allogamus auricollis,,achiasmatic,2,62,62,Female,ZW,,,A. Burt. 1991. Sex differences in recombination. Journal of Evolutionary Biology 4(2): 259-277
