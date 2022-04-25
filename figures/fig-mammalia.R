@@ -43,15 +43,17 @@ for(i in 1:nrow(dat)){
 }
 dat.microtus <- dat[dat$genera == "Microtus",]
 
+par(mfrow = c(2,3))
+
 #### plot ####
-#### Eutherians (chiasmatic) vs Marsupials ####
+#### Eutherians (chiasmatic) \n vs \n Marsupials ####
 plot(xlim = c(0,110),
      ylim = c(0,0.25),
      x = NULL,
      y = NULL,
      xlab = "Diploid chromosome number",
      ylab = "Density",
-     main = "Eutherians (chiasmatic) vs Marsupials (achiasmatic)")
+     main = "Eutherians (chiasmatic) \n vs \n Marsupials (achiasmatic)")
 polygon(density(c(dat.marsupials$Female.Diploid..), na.rm = T),
         col = rgb(0,0,1,0.3),
         border = rgb(0,0,1,1),
@@ -67,14 +69,14 @@ legend("topright",
        fill = c(rgb(1,0,0,0.3),rgb(0,0,1,0.3)),
        border = c(rgb(1,0,0,1),rgb(0,0,1,1)))
 
-#### chiasmatic eutherians vs achiasmatic chordates ####
+#### chiasmatic eutherians \n vs \n achiasmatic chordates ####
 plot(xlim = c(0,110),
      ylim = c(0,0.06),
      x = NULL,
      y = NULL,
      xlab = "Diploid chromosome number",
      ylab = "Density",
-     main = "Eutherians (chiasmatic) vs Eutherians (achiasmatic)")
+     main = "Eutherians \n chiasmatic vs achiasmatic")
 polygon(density(c(dat.eutherians$Female.Diploid..[dat.eutherians$Meiosis.Type != "chiasmatic"])),
         col = rgb(0,0,1,0.3),
         border = rgb(0,0,1,1),
@@ -92,14 +94,14 @@ legend("topright",
        border = c(rgb(1,0,0,1),rgb(0,0,1,1)))
 
 
-#### chiasmatic rodents vs achiasmatic rodents ####
+#### chiasmatic rodents \n vs \n achiasmatic rodents ####
 plot(xlim = c(0,110),
      ylim = c(0,0.06),
      x = NULL,
      y = NULL,
      xlab = "Diploid chromosome number",
      ylab = "Density",
-     main = "Rodents (chiasmatic) vs Rodents (achiasmatic)")
+     main = "Rodents \n chiasmatic vs achiasmatic")
 polygon(density(c(dat.rodents$Female.Diploid..[dat.rodents$Meiosis.Type != "chiasmatic"])),
         col = rgb(0,0,1,0.3),
         border = rgb(0,0,1,1),
@@ -117,14 +119,14 @@ legend("topright",
        border = c(rgb(1,0,0,1),rgb(0,0,1,1)))
 
 
-#### Cricetidae (Chiasmatic) vs Cricetidae (aChiasmatic) ####
+#### Cricetidae (Chiasmatic) \n vs \n Cricetidae (aChiasmatic) ####
 plot(xlim = c(0,110),
      ylim = c(0,0.1),
      x = NULL,
      y = NULL,
      xlab = "Diploid chromosome number",
      ylab = "Density",
-     main = "Cricetidae (chiasmatic) vs Cricetidae (achiasmatic)")
+     main = "Cricetidae \n chiasmatic vs achiasmatic")
 polygon(density(c(dat.cricetidae$Female.Diploid..[dat.cricetidae$Meiosis.Type != "chiasmatic"])),
         col = rgb(0,0,1,0.3),
         border = rgb(0,0,1,1),
@@ -143,14 +145,14 @@ legend("topright",
 
 
 
-#### Microtus (Chiasmatic) vs Microtus (aChiasmatic) ####
+#### Microtus (Chiasmatic) \n vs \n Microtus (aChiasmatic) ####
 plot(xlim = c(0,110),
      ylim = c(0,0.1),
      x = NULL,
      y = NULL,
      xlab = "Diploid chromosome number",
      ylab = "Density",
-     main = "Microtus (chiasmatic) vs Microtus (achiasmatic)")
+     main = "Microtus \n chiasmatic vs achiasmatic")
 polygon(density(c(dat.microtus$Female.Diploid..[dat.microtus$Meiosis.Type != "chiasmatic"])),
         col = rgb(0,0,1,0.3),
         border = rgb(0,0,1,1),
