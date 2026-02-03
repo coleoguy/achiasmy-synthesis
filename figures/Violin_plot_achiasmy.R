@@ -13,6 +13,7 @@ library(ggplot2)
 library(patchwork)
 library(viridisLite)
 library(scales)
+library(tidyr)
 
 # -------------------------
 # viridis colors (3 categories)
@@ -51,10 +52,6 @@ recode_meiosis3 <- function(x) {
   )
 }
 
-achiasmatic_tokens <- c("achiasmatic", "distance pairing")
-message("Raw 'Meiosis Type' values categorized as Achiasmatic: ",
-        paste(shQuote(achiasmatic_tokens), collapse = ", "))
-
 collapse_meiosis3 <- function(v) {
   v <- v[!is.na(v)]
   if (!length(v)) return(NA_character_)
@@ -82,7 +79,6 @@ calc_box_stats <- function(df) {
 
 # -------------------------
 # Violin + custom IQR box + median dot + min/max whiskers
-# NOW includes violin_adjust (bandwidth multiplier) per plot
 # -------------------------
 make_violin_custombox <- function(df, n_df,
                                   title_text, xlab,
@@ -137,49 +133,27 @@ make_violin_custombox <- function(df, n_df,
         inherit.aes = FALSE,
         linewidth = whisker_lwd,
         color = "black"
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Chiasmatic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3,
-          group = interaction(x_group, Meiosis_plot)
-        ),
-        position = position_dodge(width = dodge_width),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Chiasmatic"],
-        color = NA,
-        alpha = 1
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Achiasmatic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3,
-          group = interaction(x_group, Meiosis_plot)
-        ),
-        position = position_dodge(width = dodge_width),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Achiasmatic"],
-        color = NA,
-        alpha = 1
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Asynaptic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3,
-          group = interaction(x_group, Meiosis_plot)
-        ),
-        position = position_dodge(width = dodge_width),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Asynaptic"],
-        color = NA,
-        alpha = 1
-      ) +
+      )
+    
+    for (m in meiosis_levels) {
+      p <- p +
+        geom_rect(
+          data = dplyr::filter(stat_df, Meiosis_plot == m),
+          aes(
+            xmin = as.numeric(x_group) - box_width/2,
+            xmax = as.numeric(x_group) + box_width/2,
+            ymin = q1, ymax = q3,
+            group = interaction(x_group, Meiosis_plot)
+          ),
+          position = position_dodge(width = dodge_width),
+          inherit.aes = FALSE,
+          fill = box_fill_map[m],
+          color = NA,
+          alpha = 1
+        )
+    }
+    
+    p <- p +
       geom_point(
         data = stat_df,
         aes(x = x_group, y = med,
@@ -189,7 +163,9 @@ make_violin_custombox <- function(df, n_df,
         color = "white",
         size = dot_size
       )
+    
   } else {
+    
     p <- p +
       geom_violin(
         aes(fill = Meiosis_plot, color = Meiosis_plot),
@@ -205,43 +181,25 @@ make_violin_custombox <- function(df, n_df,
         inherit.aes = FALSE,
         linewidth = whisker_lwd,
         color = "black"
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Chiasmatic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3
-        ),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Chiasmatic"],
-        color = NA,
-        alpha = 1
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Achiasmatic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3
-        ),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Achiasmatic"],
-        color = NA,
-        alpha = 1
-      ) +
-      geom_rect(
-        data = dplyr::filter(stat_df, Meiosis_plot == "Asynaptic"),
-        aes(
-          xmin = as.numeric(x_group) - box_width/2,
-          xmax = as.numeric(x_group) + box_width/2,
-          ymin = q1, ymax = q3
-        ),
-        inherit.aes = FALSE,
-        fill = box_fill_map["Asynaptic"],
-        color = NA,
-        alpha = 1
-      ) +
+      )
+    
+    for (m in meiosis_levels) {
+      p <- p +
+        geom_rect(
+          data = dplyr::filter(stat_df, Meiosis_plot == m),
+          aes(
+            xmin = as.numeric(x_group) - box_width/2,
+            xmax = as.numeric(x_group) + box_width/2,
+            ymin = q1, ymax = q3
+          ),
+          inherit.aes = FALSE,
+          fill = box_fill_map[m],
+          color = NA,
+          alpha = 1
+        )
+    }
+    
+    p <- p +
       geom_point(
         data = stat_df,
         aes(x = x_group, y = med),
@@ -267,88 +225,176 @@ make_violin_custombox <- function(df, n_df,
     )
 }
 
-# =========================
-# DATA PREP
-# =========================
+# ============================================================
+# DATA PARSING (keep the parsing style you have now)
+# - clean taxonomy
+# - Species_key
+# - parse diploid strings (ranges/lists AND 2n=52)
+# - choose ONE diploid per Species_key (mode; reproducible tie)
+# ============================================================
 
-# Mammalia
-mamm_raw <- read_csv("Mammalia achiasmy.csv", show_col_types = FALSE) %>%
-  mutate(across(any_of(c("Class","Subclass","Order","Family","Genus","Species")),
-                ~ str_squish(as.character(.x)))) %>%
+clean <- function(x) x |>
+  str_trim() |>
+  str_replace_all("[\\(\\),;]", "_") |>
+  str_squish()
+
+.expand_range <- function(a, b) {
+  a <- suppressWarnings(as.integer(a)); b <- suppressWarnings(as.integer(b))
+  if (is.na(a) || is.na(b)) return(integer(0))
+  if (b < a) { tmp <- a; a <- b; b <- tmp }
+  seq.int(a, b)
+}
+
+parse_diploid_cell <- function(x) {
+  if (is.na(x) || !nzchar(x)) return(integer(0))
+  s <- as.character(x)
+  s <- stringr::str_replace_all(s, "\u2013|\u2014|\u2212", "-")
+  # keep digits + separators + "=" so 2n=52 becomes "2 52"
+  s <- stringr::str_replace_all(s, "[^0-9,;\\-=]", " ")
+  s <- stringr::str_replace_all(s, "=", " ")
+  s <- stringr::str_squish(s)
+  
+  out <- integer(0)
+  
+  rng <- stringr::str_match_all(s, "(?<!\\d)(\\d+)\\s*-\\s*(\\d+)(?!\\d)")[[1]]
+  if (nrow(rng)) {
+    rng_vals <- unlist(apply(rng[,2:3, drop=FALSE], 1, function(v) .expand_range(v[1], v[2])))
+    out <- c(out, rng_vals)
+    s <- stringr::str_replace_all(s, "(?<!\\d)\\d+\\s*-\\s*\\d+(?!\\d)", " ")
+  }
+  
+  singles <- stringr::str_split(s, "[,;\\s]+", simplify = TRUE)
+  singles <- singles[nzchar(singles)]
+  if (length(singles)) {
+    nums <- suppressWarnings(as.integer(singles))
+    out  <- c(out, nums[is.finite(nums)])
+  }
+  
+  out <- unique(out)
+  
+  # drop stray "2" from "2n=52" type cells
+  if (length(out) > 1 && any(out == 2) && any(out > 10)) out <- out[out != 2]
+  
+  out
+}
+
+choose_one_per_species <- function(df) {
+  df %>%
+    dplyr::select(Species_key, diploid_num_vals) %>%
+    tidyr::unnest_longer(diploid_num_vals, values_to = "val", keep_empty = TRUE) %>%
+    dplyr::filter(!is.na(val)) %>%
+    dplyr::count(Species_key, val, name = "n") %>%
+    dplyr::group_by(Species_key) %>%
+    dplyr::mutate(n_max = max(n, na.rm = TRUE)) %>%
+    dplyr::filter(n == n_max) %>%
+    dplyr::slice_sample(n = 1) %>%
+    dplyr::ungroup() %>%
+    dplyr::transmute(Species_key, diploid_num_chosen = as.integer(val))
+}
+
+# -------------------------
+# Mammalia parsed
+# -------------------------
+Mammalia <- read_csv("Mammalia achiasmy.csv", show_col_types = FALSE) %>%
+  mutate(across(any_of(c("Class","Subclass","Order","Family","Genus","Species")), clean)) %>%
   mutate(
-    Subclass2 = case_when(Subclass == "Theria" ~ "Eutheria", TRUE ~ Subclass),
-    Meiosis3         = recode_meiosis3(`Meiosis Type`),
-    `Diploid Number` = suppressWarnings(as.numeric(`Diploid Number`)),
-    Haploid          = `Diploid Number` / 2,
-    organism_id      = paste(Class, Subclass2, Order, Family, Genus, Species, sep="|")
+    Subclass2     = if_else(Subclass == "Theria", "Eutheria", Subclass),
+    Species_main  = sub(" ,*", "", Species),
+    Species_key   = paste(Genus, Species_main, sep = "_"),
+    Meiosis3      = recode_meiosis3(`Meiosis Type`)
   ) %>%
-  filter(is.finite(Haploid), Haploid > 0,
-         !is.na(Subclass2), Subclass2 %in% c("Metatheria","Eutheria"),
-         !is.na(Meiosis3))
+  filter(!is.na(Meiosis3), !is.na(Subclass2), Subclass2 %in% c("Metatheria","Eutheria"))
 
-mamm_org <- mamm_raw %>%
+diploid_col_m <- names(dplyr::select(Mammalia, tidyselect::matches("^\\s*Diploid\\s+Number\\s*$")))
+diplo_choice_m <- Mammalia %>%
+  mutate(diploid_num_vals = lapply(.data[[diploid_col_m]], parse_diploid_cell)) %>%
+  select(Species_key, diploid_num_vals) %>%
+  choose_one_per_species()
+
+Mammalia <- Mammalia %>%
+  left_join(diplo_choice_m, by = "Species_key") %>%
+  mutate(Haploid = diploid_num_chosen / 2) %>%
+  filter(is.finite(Haploid), Haploid > 0)
+
+mamm_org <- Mammalia %>%
+  mutate(organism_id = paste(Class, Subclass2, Order, Family, Genus, Species, sep="|")) %>%
   group_by(organism_id) %>%
   summarise(
-    Haploid      = sample(Haploid, size = 1),
+    Haploid      = first(Haploid),            # haploid already fixed by Species_key
     Subclass2    = first(Subclass2),
     Meiosis_plot = collapse_meiosis3(Meiosis3),
     .groups = "drop"
   ) %>%
   filter(!is.na(Meiosis_plot))
 
-# PANEL 1: switch so Chiasmatic group is LEFTMOST:
-# order Eutheria (chiasmatic-only) then Metatheria
+# -------------------------
+# Insects parsed (Diptera + Coleoptera)
+# -------------------------
+prep_insect_parsed <- function(file) {
+  dat <- read_csv(file, show_col_types = FALSE) %>%
+    mutate(across(any_of(c("Class","Order","Suborder","Family","Genus","Species")), clean)) %>%
+    mutate(
+      Species_main  = sub(" ,*", "", Species),
+      Species_key   = paste(Genus, Species_main, sep = "_"),
+      Meiosis3      = recode_meiosis3(`Meiosis Type`)
+    ) %>%
+    filter(!is.na(Meiosis3))
+  
+  diploid_col <- names(dplyr::select(dat, tidyselect::matches("^\\s*Diploid\\s+Number\\s*$")))
+  
+  diplo_choice <- dat %>%
+    mutate(diploid_num_vals = lapply(.data[[diploid_col]], parse_diploid_cell)) %>%
+    select(Species_key, diploid_num_vals) %>%
+    choose_one_per_species()
+  
+  dat <- dat %>%
+    left_join(diplo_choice, by = "Species_key") %>%
+    mutate(Haploid = diploid_num_chosen / 2) %>%
+    filter(is.finite(Haploid), Haploid > 0)
+  
+  dat %>%
+    mutate(
+      Suborder_clean = str_to_lower(str_squish(as.character(Suborder))),
+      Suborder = case_when(
+        Suborder_clean == "adephaga"  ~ "Adephaga",
+        Suborder_clean == "polyphaga" ~ "Polyphaga",
+        TRUE                          ~ Suborder
+      ),
+      organism_id = paste(Class, Order, Suborder, Family, Genus, Species, sep="|")
+    ) %>%
+    group_by(organism_id) %>%
+    summarise(
+      Haploid      = first(Haploid),
+      Suborder     = first(Suborder),
+      Meiosis_plot = collapse_meiosis3(Meiosis3),
+      .groups = "drop"
+    ) %>%
+    filter(!is.na(Meiosis_plot), !is.na(Suborder))
+}
+
+cole_org <- prep_insect_parsed("Coleoptera achiasmy.csv") %>%
+  filter(Suborder %in% c("Polyphaga","Adephaga"))
+
+dipt_org <- prep_insect_parsed("Diptera achiasmy.csv")
+
+# =========================
+# PANELS (same comparisons)
+# =========================
+
+# Panel 1: Mammalia (Eutheria chiasmatic-only vs Metatheria)
 mamm_panel1 <- mamm_org %>%
   filter(Subclass2 == "Metatheria" | (Subclass2 == "Eutheria" & Meiosis_plot == "Chiasmatic")) %>%
   mutate(x_group = factor(Subclass2, levels = c("Eutheria","Metatheria")))
 mamm1_n <- mamm_panel1 %>% count(x_group, name="n")
 
-# PANEL 2 (already has Chiasmatic first)
+# Panel 2: Eutheria (3 segregation types)
 euth_panel2 <- mamm_org %>%
   filter(Subclass2 == "Eutheria") %>%
   mutate(x_group = factor(as.character(Meiosis_plot),
                           levels = c("Chiasmatic","Achiasmatic","Asynaptic")))
 euth2_n <- euth_panel2 %>% count(x_group, name="n")
 
-# Insects
-prep_insect <- function(file) {
-  dat <- read_csv(file, show_col_types = FALSE) %>%
-    mutate(across(any_of(c("Class","Order","Suborder","Family","Genus","Species")),
-                  ~ str_squish(as.character(.x)))) %>%
-    mutate(
-      Meiosis3         = recode_meiosis3(`Meiosis Type`),
-      `Diploid Number` = suppressWarnings(as.numeric(`Diploid Number`)),
-      Haploid          = `Diploid Number` / 2,
-      Suborder_clean   = str_to_lower(str_squish(as.character(Suborder)))
-    ) %>%
-    filter(is.finite(Haploid), Haploid > 0,
-           !is.na(Suborder_clean), Suborder_clean != "",
-           !is.na(Meiosis3)) %>%
-    mutate(Suborder = case_when(
-      Suborder_clean == "adephaga"  ~ "Adephaga",
-      Suborder_clean == "polyphaga" ~ "Polyphaga",
-      TRUE                          ~ Suborder
-    ))
-  
-  id_cols <- intersect(c("Class","Order","Suborder","Family","Genus","Species"), names(dat))
-  
-  dat %>%
-    mutate(organism_id = do.call(paste, c(across(all_of(id_cols)), sep="|"))) %>%
-    group_by(organism_id) %>%
-    summarise(
-      Haploid      = sample(Haploid, size = 1),
-      Suborder     = first(Suborder),
-      Meiosis_plot = collapse_meiosis3(Meiosis3),
-      .groups = "drop"
-    ) %>%
-    filter(!is.na(Meiosis_plot))
-}
-
-# Coleoptera
-cole_org <- prep_insect("Coleoptera achiasmy.csv") %>%
-  filter(Suborder %in% c("Polyphaga","Adephaga"))
-
-# PANEL 3: switch so Chiasmatic (Adephaga) is LEFTMOST:
+# Panel 3: Coleoptera (Adephaga chiasmatic vs Polyphaga asynaptic)
 cole_panel3 <- cole_org %>%
   filter(
     (Suborder == "Polyphaga" & Meiosis_plot == "Asynaptic") |
@@ -357,23 +403,14 @@ cole_panel3 <- cole_org %>%
   mutate(x_group = factor(Suborder, levels = c("Adephaga","Polyphaga")))
 cole3_n <- cole_panel3 %>% count(x_group, name="n")
 
-# PANEL 4 (already has Chiasmatic first)
+# Panel 4: Adephaga (Chiasmatic vs Asynaptic)
 ade_panel4 <- cole_org %>%
-  filter(Suborder == "Adephaga") %>%
-  filter(Meiosis_plot != "Achiasmatic") %>%
+  filter(Suborder == "Adephaga", Meiosis_plot %in% c("Chiasmatic","Asynaptic")) %>%
   mutate(x_group = factor(as.character(Meiosis_plot),
                           levels = c("Chiasmatic","Asynaptic")))
-ade_present <- ade_panel4 %>% distinct(x_group) %>% pull(x_group) %>% as.character()
-ade_panel4  <- ade_panel4 %>%
-  mutate(x_group = factor(as.character(x_group),
-                          levels = c("Chiasmatic","Asynaptic")[c("Chiasmatic","Asynaptic") %in% ade_present]))
 ade4_n <- ade_panel4 %>% count(x_group, name="n")
 
-# Diptera
-dipt_org <- prep_insect("Diptera achiasmy.csv")
-
-# PANEL 5: ensure Chiasmatic Nematocera is left of Achiasmatic-only Brachycera
-# (we force order: Nematocera, then Brachycera, then everything else)
+# Panel 5: Diptera (your filtering rules)
 dipt_panel5 <- dipt_org %>%
   mutate(Sub_l = str_to_lower(str_squish(as.character(Suborder)))) %>%
   filter(
@@ -384,31 +421,25 @@ dipt_panel5 <- dipt_org %>%
 dip_levels <- unique(as.character(dipt_panel5$Suborder))
 front <- c("Nematocera","Brachycera")
 dip_levels <- c(front[front %in% dip_levels], setdiff(dip_levels, front))
-
-dipt_panel5 <- dipt_panel5 %>%
-  mutate(x_group = factor(Suborder, levels = dip_levels))
+dipt_panel5 <- dipt_panel5 %>% mutate(x_group = factor(Suborder, levels = dip_levels))
 dipt5_n <- dipt_panel5 %>% count(x_group, name="n")
 
-# PANEL 6 (already has Chiasmatic first)
+# Panel 6: Nematocera (3 segregation types)
 nem_panel6 <- dipt_org %>%
   filter(str_to_lower(str_squish(as.character(Suborder))) == "nematocera") %>%
   mutate(x_group = factor(as.character(Meiosis_plot),
                           levels = c("Chiasmatic","Achiasmatic","Asynaptic")))
-nem_present <- nem_panel6 %>% distinct(x_group) %>% pull(x_group) %>% as.character()
-nem_panel6  <- nem_panel6 %>%
-  mutate(x_group = factor(as.character(x_group),
-                          levels = c("Chiasmatic","Achiasmatic","Asynaptic")[c("Chiasmatic","Achiasmatic","Asynaptic") %in% nem_present]))
 nem6_n <- nem_panel6 %>% count(x_group, name="n")
 
 # =========================
-# PER-PANEL BANDWIDTH (adjust) SETTINGS
+# Per-panel bandwidth (adjust)
 # =========================
-adj_p1 <- 0.8
-adj_p2 <- 0.8
-adj_p3 <- 1.0
-adj_p4 <- 1.0
-adj_p5 <- 1.8
-adj_p6 <- 1.8
+adj_p1 <- 1.2
+adj_p2 <- 1.2
+adj_p3 <- 1.4
+adj_p4 <- 1.4
+adj_p5 <- 2.0
+adj_p6 <- 2.0
 
 # =========================
 # BUILD PLOTS
@@ -462,3 +493,65 @@ devEMF::emf(
 )
 print(panel)
 dev.off()
+
+# =========================
+# Sanity check ALL groups in ALL panels
+# For each (x_group × Meiosis_plot):
+#   - prints n + min/max + q1/median/q3 + IQR
+#   - prints Haploid distribution
+# =========================
+
+sanity_check_panel_all <- function(df, panel_name) {
+  stopifnot(all(c("x_group","Meiosis_plot","Haploid") %in% names(df)))
+  
+  # Box stats + n per group
+  n_df <- df %>% count(x_group, Meiosis_plot, name = "n")
+  
+  st <- calc_box_stats(df) %>%
+    left_join(n_df, by = c("x_group","Meiosis_plot")) %>%
+    mutate(
+      IQR  = q3 - q1,
+      flat = (q1 == q3)
+    ) %>%
+    select(x_group, Meiosis_plot, n, ymin, ymax, q1, med, q3, IQR, flat) %>%
+    arrange(x_group, Meiosis_plot)
+  
+  cat("\n====================================================\n",
+      panel_name, "\n====================================================\n", sep="")
+  print(st, n = Inf)
+  
+  # Loop through every group and print Haploid distribution
+  groups <- st %>% select(x_group, Meiosis_plot)
+  
+  for (i in seq_len(nrow(groups))) {
+    xg <- groups$x_group[i]
+    mp <- groups$Meiosis_plot[i]
+    
+    # Print a header + the stats row for this group
+    cat("\n----------------------------------------------------\n")
+    cat(panel_name, " | Group: ", as.character(xg), " / ", as.character(mp), "\n", sep="")
+    print(st %>% filter(x_group == xg, Meiosis_plot == mp), n = Inf)
+    
+    # Print Haploid distribution (counts)
+    df %>%
+      filter(x_group == xg, Meiosis_plot == mp) %>%
+      count(Haploid, sort = FALSE) %>%          # keep natural ascending order
+      arrange(Haploid) %>%
+      print(n = Inf)
+  }
+  
+  invisible(st)
+}
+
+# Run for all panels
+panel_list <- list(
+  "Panel 1: Mammalia"   = mamm_panel1,
+  "Panel 2: Eutheria"   = euth_panel2,
+  "Panel 3: Coleoptera" = cole_panel3,
+  "Panel 4: Adephaga"   = ade_panel4,
+  "Panel 5: Diptera"    = dipt_panel5,
+  "Panel 6: Nematocera" = nem_panel6
+)
+
+invisible(lapply(names(panel_list), function(nm) sanity_check_panel_all(panel_list[[nm]], nm)))
+
