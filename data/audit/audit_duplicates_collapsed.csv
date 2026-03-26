@@ -1,0 +1,300 @@
+full_path,row_count,original_species_names,meiosis_types,diploid_nums
+Animalia|Insecta|Coleoptera|Curculionidae|Baris|sp.,5,sp.,Asynaptic,18; 22; NA; 32; 54
+Animalia|Insecta|Coleoptera|Curculionidae|Anthonomus|bisignifer,4,bisignifer,Asynaptic,30; 32; 34; 36
+Animalia|Insecta|Coleoptera|Curculionidae|Hilaus|sp.,4,sp.,Asynaptic,18; 20; 22; 24
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|facialba,4,facialba,Achiasmatic,10; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|nebulosa,4,nebulosa,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|willistoni,4,willistoni,Achiasmatic,6; 8
+Animalia|Insecta|Coleoptera|Chrysomelidae|Altica|sp.,3,sp.,Asynaptic,26; 24; 22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Laccoptera|quadrimaculata,3,quadrimaculata,Asynaptic,18
+Animalia|Insecta|Coleoptera|Curculionidae|Amystax|fasciatus,3,fasciatus,Asynaptic,16; 22
+Animalia|Insecta|Coleoptera|Curculionidae|Cryptorrhynchus|lapathi,3,lapathi,Asynaptic,33-34; 34; 36
+Animalia|Insecta|Coleoptera|Curculionidae|Curculio|sp.,3,sp.,Asynaptic,24; 26; 28
+Animalia|Insecta|Coleoptera|Curculionidae|Mechistocerus|sp.,3,sp.,Asynaptic,22; 32; 40
+Animalia|Insecta|Coleoptera|Curculionidae|Metialma|sp,3,sp,Asynaptic,32; 34; 30
+Animalia|Insecta|Coleoptera|Curculionidae|Sitona|sp.,3,sp.,Asynaptic,22; 24; 26
+Animalia|Insecta|Coleoptera|Meloidae|Epicauta|atomaria,3,atomaria,Asynaptic,20
+Animalia|Insecta|Coleoptera|Scarabaeidae|Adorrhinyptia|sp.,3,sp.,Asynaptic,16; 18; 20
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|cardini,3,cardini,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|guaramunu,3,guaramunu,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mercatorum,3,mercatorum,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|micromelanica,3,micromelanica,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|montana,3,montana,Achiasmatic,12; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|munda,3,munda,Achiasmatic,8; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|nasuta,3,nasuta,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|orena,3,orena,Achiasmatic,8; 10
+Animalia|Insecta|Diptera|Muscidae|Musca|stabulans,3,stabulans,Achiasmatic,10; 12
+Animalia|Insecta|Diptera|Sarcophagidae|Pseudosarcophaga|affinis,3,affinis,Achiasmatic,18; 20
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|brevis,3,brevis,Achiasmatic; Distance pairing; Distance Pairing,18; NA
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|flavomarginatus,3,flavomarginatus,Achiasmatic; Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pallidus,3,pallidus,Distance pairing; Distance Pairing,34
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|sareptanus,3,sareptanus,Distance pairing; Distance Pairing,34
+Animalia|Mammalia|Rodentia|Cimicidae|Microtus|arvalis,3,arvalis,Achiasmatic; Asynaptic,NA; 46
+Animalia|Mammalia|Rodentia|Cimicidae|Microtus|rossiaemeridionalis,3,rossiaemeridionalis,Asynaptic,54; NA
+Animalia|Amphibia|Caudata|Salamandridae|Triturus|marmoratus,2,marmoratus,Asynaptic,NA; 24
+Animalia|Arachnida|Araneae|Sicariidae|Loxosceles|rufescens,2,rufescens,Achiasmatic,21
+Animalia|Arachnida|Araneae|Sicariidae|Loxosceles|spinulosa,2,spinulosa,Achiasmatic,19
+Animalia|Arachnida|Pseudoscorpionida|Chthoniidae|Chthonius|fuscimanus,2,fuscimanus,Achiasmatic,35
+Animalia|Arachnida|Pseudoscorpionida|Chthoniidae|Chthonius|litoralis,2,litoralis,Achiasmatic,35
+Animalia|Arachnida|Pseudoscorpionida|Chthoniidae|Chthonius|orthodactylus,2,orthodactylus,Achiasmatic,33
+Animalia|Arachnida|Pseudoscorpionida|Chthoniidae|Chthonius|sp. 1,2,sp. 1,Achiasmatic,29
+Animalia|Arachnida|Scorpiones|Buthidae|Ischnotelson|sp.,2,sp.,Achiasmatic,26
+Animalia|Arachnida|Scorpiones|Buthidae|Isometroides|vescus,2,vescus,Achiasmatic,NA; 14
+Animalia|Arachnida|Scorpiones|Buthidae|Isometrus|maculatus,2,maculatus,Achiasmatic,NA; 14-Dec
+Animalia|Arachnida|Scorpiones|Buthidae|Lychas|variatus,2,variatus,Achiasmatic,14; 16
+Animalia|Copepoda|Cyclopoida|Harpacticoida|Tigriopus|californicus,2,californicus,Achiasmatic; Distance pairing,24
+Animalia|Copepoda|Harpaticoida|Harpacticidae|Tigriopus|californicus,2,californicus,Achiasmatic,24
+Animalia|Insecta|Coleoptera|Attelabidae|Apoderus|balteatus,2,balteatus,Asynaptic,22; 26
+Animalia|Insecta|Coleoptera|Attelabidae|Apoderus|erythrogaster,2,erythrogaster,Asynaptic,28; 26
+Animalia|Insecta|Coleoptera|Attelabidae|Deporaus|unicolor,2,unicolor,Asynaptic,34; 28
+Animalia|Insecta|Coleoptera|Carabidae|Chlaenius|xanthospilus,2,xanthospilus,Asynaptic,36; 37
+Animalia|Insecta|Coleoptera|Carabidae|Tachyura|parvula,2,parvula,Achiasmatic; NA,16; 24
+Animalia|Insecta|Coleoptera|Cerambycidae|Monochamus|oregonensis,2,oregonensis,Asynaptic,22; 20
+Animalia|Insecta|Coleoptera|Cerambycidae|Solenoptera|quadrilineata,2,quadrilineata,Asynaptic,26; 27
+Animalia|Insecta|Coleoptera|Cerambycidae|Tetropium|castaneum,2,castaneum,Asynaptic,20; 24
+Animalia|Insecta|Coleoptera|Chrysomelidae|Agroiconota|inedita,2,inedita,Asynaptic,42; 40
+Animalia|Insecta|Coleoptera|Chrysomelidae|Altica|coerulea,2,coerulea,Asynaptic,24; 22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Botanochara|boriensis,2,boriensis,Asynaptic,26; 40
+Animalia|Insecta|Coleoptera|Chrysomelidae|Bruchus|pisorum,2,pisorum,Asynaptic,20; 22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Callosobruchus|chinensis,2,chinensis,Asynaptic,20
+Animalia|Insecta|Coleoptera|Chrysomelidae|Caryedon|sp.,2,sp.,Asynaptic,20; 20-26
+Animalia|Insecta|Coleoptera|Chrysomelidae|Cassida|sp.,2,sp.,Asynaptic,20
+Animalia|Insecta|Coleoptera|Chrysomelidae|Cassida|vibex,2,vibex,Asynaptic,20; 18
+Animalia|Insecta|Coleoptera|Chrysomelidae|Cassida|virdis,2,virdis,Asynaptic,24; 30
+Animalia|Insecta|Coleoptera|Chrysomelidae|Chrysolina|aurichalcea,2,aurichalcea,Asynaptic,40; 46
+Animalia|Insecta|Coleoptera|Chrysomelidae|Chrysomela|schaefferi,2,schaefferi,Asynaptic,34
+Animalia|Insecta|Coleoptera|Chrysomelidae|Deloyala|guttata,2,guttata,Asynaptic,18; 20
+Animalia|Insecta|Coleoptera|Chrysomelidae|Diapromorpha|quadripunctata,2,quadripunctata,Asynaptic,22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Diapromorpha|turcica,2,turcica,Asynaptic,22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Glyphocassis|trilineata,2,trilineata,Asynaptic,16; 18
+Animalia|Insecta|Coleoptera|Chrysomelidae|Hilarocassis|exclamationis,2,exclamationis,Asynaptic,34
+Animalia|Insecta|Coleoptera|Chrysomelidae|Monolepta|sexsigta,2,sexsigta,Asynaptic,18
+Animalia|Insecta|Coleoptera|Chrysomelidae|Platycorinus|modestus,2,modestus,Asynaptic,28; 30
+Animalia|Insecta|Coleoptera|Chrysomelidae|Platycorinus|peregrinus,2,peregrinus,Asynaptic,28; 30
+Animalia|Insecta|Coleoptera|Chrysomelidae|Stolas|festiva,2,festiva,Asynaptic,24; 22
+Animalia|Insecta|Coleoptera|Chrysomelidae|Trirhabda|cadensis,2,cadensis,Asynaptic,30; 32
+Animalia|Insecta|Coleoptera|Chrysomelidae|Typophorus|nigritus,2,nigritus,Asynaptic,20
+Animalia|Insecta|Coleoptera|Coccinellidae|Anisocalvia|quatuordecimguttata,2,quatuordecimguttata,Asynaptic,20
+Animalia|Insecta|Coleoptera|Coccinellidae|Aphidecta|axyridis,2,axyridis,Asynaptic,16
+Animalia|Insecta|Coleoptera|Coccinellidae|Henosepilachna|dodecastigma,2,dodecastigma,Asynaptic,20; 14
+Animalia|Insecta|Coleoptera|Coccinellidae|Scymnus|sp.,2,sp.,Asynaptic,18; 20
+Animalia|Insecta|Coleoptera|Curculionidae|Acicnemis|nigra,2,nigra,Asynaptic,22; 24
+Animalia|Insecta|Coleoptera|Curculionidae|Anobleptus|sp.,2,sp.,Asynaptic,22; 24
+Animalia|Insecta|Coleoptera|Curculionidae|Anthonomus|sp.,2,sp.,Asynaptic,26; 32
+Animalia|Insecta|Coleoptera|Curculionidae|Baris|ezoa,2,ezoa,Asynaptic,32; 34
+Animalia|Insecta|Coleoptera|Curculionidae|Barypeithes|liptoviensis,2,liptoviensis,Asynaptic,26; 28
+Animalia|Insecta|Coleoptera|Curculionidae|Colobodes|sp.,2,sp.,Asynaptic,48; 36
+Animalia|Insecta|Coleoptera|Curculionidae|Cryptorrhynchus|sp.,2,sp.,Asynaptic,32; 38
+Animalia|Insecta|Coleoptera|Curculionidae|Curculio|flavescens,2,flavescens,Asynaptic,26; 28
+Animalia|Insecta|Coleoptera|Curculionidae|Curculio|pictus,2,pictus,Asynaptic,22; 26
+Animalia|Insecta|Coleoptera|Curculionidae|Dendroctonus|frontalis,2,frontalis,Asynaptic,16; 12
+Animalia|Insecta|Coleoptera|Curculionidae|Dermatoxenus|caesicollis,2,caesicollis,Asynaptic,20; NA
+Animalia|Insecta|Coleoptera|Curculionidae|Gasteroclisus|binodulus,2,binodulus,Asynaptic,36; 38
+Animalia|Insecta|Coleoptera|Curculionidae|Heilipus|wiedemanni,2,wiedemanni,Asynaptic,22; 30
+Animalia|Insecta|Coleoptera|Curculionidae|Hypolixus|truncatulus,2,truncatulus,Asynaptic,22; 44
+Animalia|Insecta|Coleoptera|Curculionidae|Lepidospyris|demissus,2,demissus,Asynaptic,22
+Animalia|Insecta|Coleoptera|Curculionidae|Limnobaris|jucunda,2,jucunda,Asynaptic,24; 30
+Animalia|Insecta|Coleoptera|Curculionidae|Magdalis|leconti,2,leconti,Asynaptic,30; 32
+Animalia|Insecta|Coleoptera|Curculionidae|Metapocyrtus|yogunianus,2,yogunianus,Asynaptic,22; 42
+Animalia|Insecta|Coleoptera|Curculionidae|Myllocerus|sp.,2,sp.,Asynaptic,22; 30
+Animalia|Insecta|Coleoptera|Curculionidae|Parascaphus|sp.,2,sp.,Asynaptic,22; 20
+Animalia|Insecta|Coleoptera|Curculionidae|Phyllobius|longicornis,2,longicornis,Asynaptic,22; 24
+Animalia|Insecta|Coleoptera|Curculionidae|Procas|biguttatus,2,biguttatus,Asynaptic,22; 24
+Animalia|Insecta|Coleoptera|Curculionidae|Rhadinomerus|annulipes,2,annulipes,Asynaptic,34; 36
+Animalia|Insecta|Coleoptera|Curculionidae|Scepticus|insularis,2,insularis,Asynaptic,22
+Animalia|Insecta|Coleoptera|Curculionidae|Tanymecus|sciurus,2,sciurus,Asynaptic,22
+Animalia|Insecta|Coleoptera|Curculionidae|Tanysphyrus|leme,2,leme,Asynaptic,16; 18
+Animalia|Insecta|Coleoptera|Curculionidae|Telephae|konoi,2,konoi,Asynaptic,22; 26
+Animalia|Insecta|Coleoptera|Dermestidae|Dermestes|frischii,2,frischii,Asynaptic,18
+Animalia|Insecta|Coleoptera|Dermestidae|Trogoderma|glabrum,2,glabrum,Asynaptic,18; 20
+Animalia|Insecta|Coleoptera|Dermestidae|Trogoderma|parabile,2,parabile,Asynaptic,18; 20
+Animalia|Insecta|Coleoptera|Scarabaeidae|Adoretus|versutus,2,versutus,Asynaptic,22; 24
+Animalia|Insecta|Coleoptera|Scarabaeidae|Autoserica|sp.,2,sp.,Asynaptic,18; 20
+Animalia|Insecta|Coleoptera|Scarabaeidae|Dichotomius|sericeus,2,sericeus,Asynaptic,18
+Animalia|Insecta|Coleoptera|Scarabaeidae|Digitonthophagus|gazella,2,gazella,Asynaptic,20
+Animalia|Insecta|Coleoptera|Scarabaeidae|Onthophagus|catta,2,catta,Asynaptic,20
+Animalia|Insecta|Coleoptera|Scarabaeidae|Onthophagus|sp.,2,sp.,Asynaptic,20; 18
+Animalia|Insecta|Coleoptera|Scarabaeidae|Schizonycha|ruficollis,2,ruficollis,Asynaptic,20; 22
+Animalia|Insecta|Coleoptera|Scolytidae|Blastophagus|minor,2,minor,Asynaptic,26; 30
+Animalia|Insecta|Coleoptera|Scolytidae|Blastophagus|pinierda,2,pinierda,Asynaptic,26; 30
+Animalia|Insecta|Coleoptera|Scolytidae|Dryocoetes|autographus,2,autographus,Asynaptic,26; 28
+Animalia|Insecta|Coleoptera|Scolytidae|Ips|pini,2,pini,Asynaptic,30; 32
+Animalia|Insecta|Coleoptera|Scolytidae|Ips|typographus,2,typographus,Asynaptic,26; 30
+Animalia|Insecta|Coleoptera|Scolytidae|Pityogenes|chalcographus,2,chalcographus,Asynaptic,16; 20
+Animalia|Insecta|Coleoptera|Scolytidae|Pityogenes|quadridens,2,quadridens,Asynaptic,16; 20
+Animalia|Insecta|Coleoptera|Scolytidae|Scolytus|mali,2,mali,Asynaptic,12; 16
+Animalia|Insecta|Coleoptera|Tenebrionidae|Erodius|emondi,2,emondi,Asynaptic,20
+Animalia|Insecta|Coleoptera|Tenebrionidae|Opatroides|vicinus,2,vicinus,Asynaptic,20
+Animalia|Insecta|Coleoptera|Tenebrionidae|Pimelia|grandis,2,grandis,Asynaptic,20; 18
+Animalia|Insecta|Coleoptera|Tenebrionidae|Tenebrio|molitor,2,molitor,Asynaptic,20
+Animalia|Insecta|Diptera|Agromyzidae|Phytomyza|crassiseta,2,crassiseta,Achiasmatic,12; 18
+Animalia|Insecta|Diptera|Drosophilidae|Chymomyza|amoena,2,amoena,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|acutilabella,2,acutilabella,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|affinis,2,affinis,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|albomicans,2,albomicans,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|algonquin,2,algonquin,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|americana,2,americana,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|ananassae,2,ananassae,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|annulipes,2,annulipes,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|arawakana,2,arawakana,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|athabasca,2,athabasca,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|atrata,2,atrata,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|azteca,2,azteca,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|baimaii,2,baimaii,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bakoue,2,bakoue,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|barbarae,2,barbarae,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bifurca,2,bifurca,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bipectinata,2,bipectinata,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|birchii,2,birchii,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bocainensis,2,bocainensis,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bocqueti,2,bocqueti,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|borealis,2,borealis,Achiasmatic,10; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|briegeri,2,briegeri,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|bromeliae,2,bromeliae,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|busckii,2,busckii,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|calloptera,2,calloptera,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|camargoi,2,camargoi,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|canalinea,2,canalinea,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|canapalpa,2,canapalpa,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|cardinoides,2,cardinoides,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|castanea,2,castanea,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|confusa,2,confusa,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|coroica,2,coroica,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|denticulata,2,denticulata,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|dunni,2,dunni,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|elliptica,2,elliptica,Achiasmatic,12; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|enigma,2,enigma,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|erecta,2,erecta,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|eremophila,2,eremophila,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|eugracilis,2,eugracilis,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|fascioloides,2,fascioloides,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|fragilis,2,fragilis,Achiasmatic,10; 14
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|fulvalineata,2,fulvalineata,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|fulvimacula,2,fulvimacula,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|fumipennis,2,fumipennis,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|funebris,2,funebris,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|greeni,2,greeni,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|griseolineata,2,griseolineata,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|guanche,2,guanche,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|helvetica,2,helvetica,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|hydei,2,hydei,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|imaii,2,imaii,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|immigrans,2,immigrans,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|lacicola,2,lacicola,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|latifshahi,2,latifshahi,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|lativittata,2,lativittata,Achiasmatic,18; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|linearepleta,2,linearepleta,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|littoralis,2,littoralis,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|lutescens,2,lutescens,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|macroptera,2,macroptera,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|macrospina,2,macrospina,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|martensis,2,martensis,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mauritiana,2,mauritiana,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mediopunctata,2,mediopunctata,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|melanica,2,melanica,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|melanogaster,2,melanogaster,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|meridiana,2,meridiana,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|meridionalis,2,meridionalis,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mesophragmatica,2,mesophragmatica,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|modified,2,modified,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mojavensis,2,mojavensis,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mojuoides,2,mojuoides,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|mulleri,2,mulleri,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|n.sp.,2,n.sp.,Achiasmatic,10; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|narragansett,2,narragansett,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|neocardini,2,neocardini,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|nigromelanica,2,nigromelanica,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|nigrospiracula,2,nigrospiracula,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|nikananu,2,nikananu,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|novamaculosa,2,novamaculosa,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|novamexicana,2,novamexicana,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|obscura,2,obscura,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|occidentalis,2,occidentalis,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|ornatipennis,2,ornatipennis,Achiasmatic,10; 14
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|orosa,2,orosa,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|parabipectinata,2,parabipectinata,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|paramelanica,2,paramelanica,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|parthenogenetica,2,parthenogenetica,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|paulistorum,2,paulistorum,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|peninsularis,2,peninsularis,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|pennae,2,pennae,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|phalerata,2,phalerata,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|procardinoides,2,procardinoides,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|prosaltans,2,prosaltans,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|pseudoananassae,2,pseudoananassae,Achiasmatic,10; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|putrida,2,putrida,Achiasmatic,8; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|quinaria,2,quinaria,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|repleta,2,repleta,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|robusta,2,robusta,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|saltans,2,saltans,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|serrata,2,serrata,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|setula,2,setula,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|similis,2,similis,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|sturtevanti,2,sturtevanti,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|subbadia,2,subbadia,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|submacroptera,2,submacroptera,Achiasmatic,10; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|suboccidentalis,2,suboccidentalis,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|subpalustris,2,subpalustris,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|sulfurigaster,2,sulfurigaster,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|takahashii,2,takahashii,Achiasmatic,8; 6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|teisseri,2,teisseri,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|tenebrosa,2,tenebrosa,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|testacea,2,testacea,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|texana,2,texana,Achiasmatic,10
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|tranquilla,2,tranquilla,Achiasmatic,6; 8
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|transversa,2,transversa,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|trispina,2,trispina,Achiasmatic,14; 12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|tropicalis,2,tropicalis,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|virilis,2,virilis,Achiasmatic,12
+Animalia|Insecta|Diptera|Drosophilidae|Drosophila|yakuba,2,yakuba,Achiasmatic,8
+Animalia|Insecta|Diptera|Drosophilidae|Pholadoris|baeomyia,2,baeomyia,Achiasmatic,6
+Animalia|Insecta|Diptera|Drosophilidae|Zaprionus|ghesquieri,2,ghesquieri,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Drosophilidae|Zaprionus|tuberculatus,2,tuberculatus,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Drosophilidae|Zaprionus|vittiger,2,vittiger,Achiasmatic,12; 8
+Animalia|Insecta|Diptera|Muscidae|Hydrotaea|stabulans,2,stabulans,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Muscidae|Musca|domestica,2,domestica,Achiasmatic,12
+Animalia|Insecta|Diptera|Muscidae|Phaonia|variegata,2,variegata,Achiasmatic,10
+Animalia|Insecta|Diptera|Phoridae|Megaselia|scalaris,2,scalaris,Achiasmatic,6
+Animalia|Insecta|Diptera|Sarcophagidae|Helicobia|sp,2,sp,Achiasmatic,12
+Animalia|Insecta|Diptera|Sciomyzidae|Elgiva|rufa,2,rufa,Achiasmatic,12
+Animalia|Insecta|Diptera|Stratiomyidae|Beris|chalybeata,2,chalybeata,Achiasmatic,10
+Animalia|Insecta|Diptera|Syrphidae|Cheilosia|tristis,2,tristis,Achiasmatic,8; 10
+Animalia|Insecta|Diptera|Syrphidae|Hiatomyia|plutonia,2,plutonia,Achiasmatic,10; 12
+Animalia|Insecta|Diptera|Syrphidae|Ischiodon|aegyptius,2,aegyptius,Achiasmatic,8; 10
+Animalia|Insecta|Diptera|Syrphidae|Lejops|transfugus,2,transfugus,Achiasmatic,12; 10
+Animalia|Insecta|Diptera|Syrphidae|Syrphus|ribesii,2,ribesii,Achiasmatic,8; 10
+Animalia|Insecta|Diptera|Tabanidae|Atylotus|fulvus,2,fulvus,Achiasmatic,18
+Animalia|Insecta|Diptera|Ulidiidae|Chaetopsis|fulvifrons,2,fulvifrons,Achiasmatic,8
+Animalia|Insecta|Hemiptera|Miridae|Capsus|ater,2,ater,Achiasmatic,32
+Animalia|Insecta|Hemiptera|Nabidae|Himacerus|apterus,2,apterus,Distance Pairing; Distance pairing,18; 34
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ferus,2,ferus,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|limbatus,2,limbatus,Achiasmatic; Distance pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|meridionalis,2,meridionalis,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|punctatus,2,punctatus,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|reuteri,2,reuteri,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|rugosus,2,rugosus,Distance pairing; Distance Pairing,18; NA
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|tesquorum,2,tesquorum,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ussuriensis,2,ussuriensis,Distance pairing; Distance Pairing,18
+Animalia|Insecta|Lepidoptera|Erebidae|Orgyia|antiqua,2,antiqua,Achiasmatic,28
+Animalia|Insecta|Lepidoptera|Noctuidae|Heliothis|virescens,2,virescens,Achiasmatic; Asynaptic,NA
+Animalia|Insecta|Lepidoptera|Pyralidae|Ephestia|kuehniella,2,kuehniella,Achiasmatic,NA; 59
+Animalia|Insecta|Lepidoptera|Saturniidae|Antheraea|assamensis,2,assamensis,Achiasmatic,29; NA
+Animalia|Insecta|Lepidoptera|Saturniidae|Antheraea|compta,2,compta,Achiasmatic,30; NA
+Animalia|Insecta|Trichoptera|Hydropsychidae|Smicridea|pampeana,2,pampeana,Achiasmatic,31; 31/32
+Animalia|Insecta|Trichoptera|Odontoceridae|Marilia|flexuosa,2,flexuosa,Achiasmatic,57
+Animalia|Insecta|Trichoptera|Sericostomatidae|Grumicha|grumicha,2,grumicha,Achiasmatic,35
+Animalia|Mammalia|Didelphimorphia|Didelphidae|Monodelphis|domestica,2,domestica,Asynaptic,NA; 18
+Animalia|Mammalia|Didelphimorphia|Didelphidae|Thylamys|elegans,2,elegans,Asynaptic; Achiasmatic,14; NA
+Animalia|Mammalia|Rodentia|Cimicidae|Microtus|cabrerae,2,cabrerae,Achiasmatic; Asynaptic,54; NA
+Animalia|Mammalia|Rodentia|Cimicidae|Microtus|kirgisorum,2,kirgisorum,Asynaptic,54; NA
+Animalia|Mammalia|Rodentia|Cricetidae|Ellobius|tancrei,2,tancrei,Asynaptic,54; 55
+Animalia|Mammalia|Rodentia|Cricetidae|Microtus|agrestis,2,agrestis,Achiasmatic; Asynaptic,50; NA
+Animalia|Mammalia|Rodentia|Cricetidae|Microtus|duodecimcostatus,2,duodecimcostatus,Achiasmatic; Asynaptic,62; NA
+Animalia|Mammalia|Rodentia|Cricetidae|Myopus|schisticolor,2,schisticolor,Asynaptic,46-48; NA
+Animalia|Mammalia|Rodentia|Cricetidae|Pitymys|duodecimcostatus,2,duodecimcostatus,Achiasmatic; Asynaptic,28; NA
+Animalia|Mammalia|Rodentia|Muridae|Psammomys|obesus,2,obesus,Achiasmatic,NA; 48
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Acanthocyclops|vernalis,2,vernalis,Achiasmatic; Distance pairing,8; NA
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|ater,2,ater,Achiasmatic,NA; 22
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|edax,2,edax,Achiasmatic; Distance pairing,14; NA
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|leuckarti,2,leuckarti,Achiasmatic,NA; 12
+Plantae|Liliopsida|Cyperales|Cyperaceae|Rhynchospora|tenuis,2,tenuis,Achiasmatic,4

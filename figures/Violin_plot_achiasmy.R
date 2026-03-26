@@ -405,9 +405,9 @@ cole3_n <- cole_panel3 %>% count(x_group, name="n")
 
 # Panel 4: Adephaga (Chiasmatic vs Asynaptic)
 ade_panel4 <- cole_org %>%
-  filter(Suborder == "Adephaga", Meiosis_plot %in% c("Chiasmatic","Asynaptic")) %>%
+  filter(Suborder == "Adephaga", Meiosis_plot %in% c("Chiasmatic","Achiasmatic","Asynaptic")) %>%
   mutate(x_group = factor(as.character(Meiosis_plot),
-                          levels = c("Chiasmatic","Asynaptic")))
+                          levels = c("Chiasmatic","Achiasmatic","Asynaptic")))
 ade4_n <- ade_panel4 %>% count(x_group, name="n")
 
 # Panel 5: Diptera (your filtering rules)
@@ -554,4 +554,59 @@ panel_list <- list(
 )
 
 invisible(lapply(names(panel_list), function(nm) sanity_check_panel_all(panel_list[[nm]], nm)))
+# =========================
+# ADD ANCESTRAL LINES & LABELS
+# =========================
 
+# Panel 1: Theria (n=18)
+p1 <- p1 + 
+  geom_hline(yintercept = 18, linetype = "dashed", color = "black", linewidth = 0.7) +
+  labs(title = "Theria")
+
+# Panel 2: Eutheria (n=20)
+p2 <- p2 + 
+  geom_hline(yintercept = 20, linetype = "dashed", color = "black", linewidth = 0.7)
+
+# Panel 4: Adephaga (n=19) - Note: Updated to 3-category factor earlier
+p4 <- p4 + 
+  geom_hline(yintercept = 19, linetype = "dashed", color = "black", linewidth = 0.7)
+
+# Panel 3: Coleoptera (n=10)
+p3 <- p3 + 
+  geom_hline(yintercept = 10, linetype = "dashed", color = "black", linewidth = 0.7)
+
+# Panel 5: Diptera (n=3)
+p5 <- p5 + 
+  geom_hline(yintercept = 3, linetype = "dashed", color = "black", linewidth = 0.7)
+
+# Panel 6: Nematocera (n=3)
+p6 <- p6 + 
+  geom_hline(yintercept = 3, linetype = "dashed", color = "black", linewidth = 0.7)
+
+# =========================
+# FINAL ASSEMBLY & EXPORT
+# =========================
+panel_final <- (p1 | p2) / (p3 | p4) / (p5 | p6) +
+  plot_layout(guides = "collect") &
+  theme(
+    legend.position = "right", 
+    plot.margin = margin(5, 5, 5, 5)
+  )
+panel_final
+
+# =========================
+# SAVE AS EMF
+# =========================
+# Using 9x13 inches to accommodate the 3x2 grid comfortably
+devEMF::emf(
+  file = "Violin_plot.emf",
+  width = 9, 
+  height = 13,
+  bg = "white",
+  coordDPI = 300
+)
+
+# Print the final combined patchwork object
+print(panel_final)
+
+dev.off()

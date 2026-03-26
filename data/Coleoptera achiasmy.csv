@@ -76,10 +76,10 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Anthia,sexguttata,,,35,XO,XO,Serr
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Apenes,margilis,,,36,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Aptinus,displosor,,,32,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Arthropterus,sp. 1,,,24,,,Galian and Moore (1994)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,caraboides,,,46,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,caraboides,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,curtum,,,24,,,Serrano and Yadav (1984)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,cyanicorne,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,flavipes,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,cyanicorne,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,flavipes,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Asaphidion,rossii,,,24,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Baudia,anomala,,,24,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,aeneicolle,,,24,XY,XY,D. Maddison (1985)
@@ -245,7 +245,7 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,punctulatum,,,24,XY,XY,
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadrifoveolatum,,,26,XY,XY,D. Maddison (1985)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadrimaculatum dubitans,,,22,XY,XY,D. Maddison (1985)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadrimaculatum oppositum,,,24,,,D. Maddison (1985)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadripustulatum,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadripustulatum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,quadrulum,,,24,XY,XY,D. Maddison (1985)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,rapidum,,,24,XY,XY,D. Maddison (1985)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Bembidion,recticolle,,,24,XY,XY,D. Maddison (1985)
@@ -620,7 +620,7 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Dyschirus,globosus,,,30,XY,XY,Ser
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Dyschirus,importunus,,,26,,,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Dyschirus,tensicollis,,,28,,,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Edaphopaussus,favieri,,,39,,,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Egadroma,marginatum,,,50,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Egadroma,marginatum,Achiasmatic,Male,39,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Egadroma,margitum,,,39,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Egadroma,piceus,,,38,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Egadroma,smaragdulus,,,39,,,Serrano and Yadav (1984)
@@ -633,9 +633,9 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Elaphrus,riparius,,,33,,,Serrano 
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Elaphrus,ullrichii,,,31,,,"Lachowska, Holecova, and Rozek (2004)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ellipsoptera,marginata,,,23,XO,XO,"Galian, Proenca, and Vogler (2007)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Elliptica,lugubris,,,24,XXXXY,Complex XY,"Ramalho, Collares-Pereira, and Serrano (2005)"
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,minimus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,rivularis,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,tenellum,,,22,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,minimus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,rivularis,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Emphanes,tenellum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Eotachys,bistriatus,,,24,XXXY,Complex XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Epaphius,secalis,,,28,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Eucryptotrichus,pineticola,,,37,XY,XY,Serrano and Yadav (1984)
@@ -714,9 +714,9 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Melanius,gracilis,,,37,XO,XO,"Yad
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Melanius,minus,,,37,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Melanius,nigrita,,,41,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Melanius,rhaeticus,,,24,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,ambiguum,,,23,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,lampros,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,properans,,,43,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,ambiguum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,lampros,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Metallina,properans,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Microlestes,abeillei,,,31,,,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Microlestes,gallicus,,,31,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Microlestes,luctuosos,,,31,XO,XO,Serrano and Yadav (1984)
@@ -740,16 +740,16 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Neocollyris,crassicornis,,,27,,,S
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Neocollyris,fuscitarsis,,,27,XXY,Complex XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Neocollyris,redtenbacheri,,,27,XXY,Complex XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Neocollyris,sp. 1,,,24,XXY,Complex XY,"Galian, Hogan, and Vogler (2002)"
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,genei,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,grisvardi,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,ibericum,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,laterale,,,28,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,genei,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,grisvardi,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,ibericum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nepha,laterale,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nesarpalus,fortutus,,,37,XXXY,Complex XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Nesarpalus,sanctaecrucis,,,37,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notagonum,sp. 1,,,28,XO,XO,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notagonum,submetalicum,,,,XY,XY,Galian and Moore (1994)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notaphus,ephippius,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notaphus,varius,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notaphus,ephippius,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notaphus,varius,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notiobia,germari,,,41,,,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notiobia,melaria,,,37,XO,XO,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notiobia,schnusei,,,37,XO,XO,Serrano and Yadav (1984)
@@ -773,20 +773,20 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notonomus,satrapa,,,35,XO,XO,Gali
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notonomus,taylori,,,35,XO,XO,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notonomus,triplogenioides,,,42,,,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Notonomus,variicollis,,,24,,,Galian and Moore (1994)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,andreae,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,atrocoeruleus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,coeruleus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,decorus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,dudichi,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,fasciolatus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,femoratus,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,hispanicus,,,23,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,ripicola,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,stephensi,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,tibialis,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,ustulatus,,,35,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,andreae,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,atrocoeruleus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,coeruleus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,decorus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,dudichi,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,fasciolatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,femoratus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,hispanicus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,ripicola,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,stephensi,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,tibialis,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Ocydromus,ustulatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odacantha,melanura,,,24,XO,XO,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odontium,striatum,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odontium,striatum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odontocarus,cephalotes,,,40,,,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odontocheila,confusa,,,22,,,"Proenca, Serrano, and Collares-Pereira (2002)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Odontocheila,nodicornis,,,35,XY,XY,"Proenca, Serrano, and Collares-Pereira (2002)"
@@ -795,7 +795,7 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omaseidius,melarius,,,37,,,"Yadav
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omaseus,atterrimus,,,37,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omaseus,elongatus,,,37,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omaseus,nigerimus,,,24,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omoperyphus,hypocrita,,,37,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omoperyphus,hypocrita,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omophron,limbatum,,,36,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omophron,ovale,,,36,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Omphra,sp,,,19,XY,XY,Serrano and Galian (1998)
@@ -841,7 +841,7 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Percosoma,substriatum,,,34,XO,XO,
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Percus,politus,,,63,XY,XY,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Percus,quiraoi,,,57,,,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pericompsus,laetulus,,,,XO,XO,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Perileptus,areolatus,,,22,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Perileptus,areolatus,Achiasmatic,Male,22,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Phaenaulax,sp. 1,,,37,XY,XY,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,africanus,,,32,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,bimaculatus,,,35,,,Serrano and Yadav (1984)
@@ -851,11 +851,11 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,hilaris var. sobrinu
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,lissoderus,,,17,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,occipitalis,,,35,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pheropsophus,verticallis,,,24,XO,XO,Galian and Moore (1994)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,biguttatus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,guadarramense,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,guttula,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,iricolor,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,vicinus,,,29,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,biguttatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,guadarramense,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,guttula,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,iricolor,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philochtus,vicinus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Philophloeus,sp. 1,,,29,XO,XO,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Platyderus,alcaracinus,,,23,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Platyderus,lusitanicus,,,23,,,Serrano and Yadav (1984)
@@ -896,14 +896,14 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Poecilus,quadricollis,,,43,XO,XO,
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Poecilus,sericeus,,,32,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Poecilus,versicolor,,,37,XY,XY,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Poecilus,vicinus,,,22,XO,XO,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,chalceus,,,41,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,chalceus,Achiasmatic,Male,22,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,gilvipes,,,22,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,meridiolis,,,22,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,persicus,,,22,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pogonus,testaceus,,,,XY,XY,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,bipunctatum,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,paulinoi,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,punctulatum,,,22,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,bipunctatum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,paulinoi,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Princidium,punctulatum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Pristonychus,terricola,,,30,XY,XY,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Promecoderus,mastersii,,,47,,,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Promecoderus,sp. 1,,,45,XO,XO,Galian and Moore (1994)
@@ -1011,33 +1011,33 @@ Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Stenolophus,teutonus,,,24,,,Serra
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Stomis,pumicatus,,,37,XY,XY,"Yadav, Lyapunova, Korablev, Baklushiskaya-Yani, and Vorontosov (1991)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Styracoderus,atramentarius,,,45,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Synchus,vivalis,,,25,,,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Synechostictus,cribum,,,25,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Synechostictus,dahli,,,25,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Synechostictus,cribum,Achiasmatic,Male,25,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Synechostictus,dahli,Achiasmatic,Male,25,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Syntomus,foveatus,,,41,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Syntomus,fuscomaculatus,,,46,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Syntomus,obscuroguttatus,,,33,,,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Syrdenus,grayi,,,40,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Tachys,parvula,,,24,XY,XY,Serrano and Yadav (1984)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Tachyura,parvula,Achiasmatic,Male,16,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Tachyura,parvula,,,30,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Tachyura,parvula,Achiasmatic,Male,16,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Tachyura,parvula,Achiasmatic,Male,30,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Taenidia,circumdata,,,22,XY,XY,"Galian, Ortiz, and Serrano (1990b)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Teraphis,sp. 1,,,24,XXXY,Complex XY,Galian and Moore (1994)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Testediolum,carpentanum,,,30,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Testediolum,carpentanum,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Thalassotrechus,barabarae,,,22,XY,XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Therates,sp. 1,,,23,XY,XY,"Galian, Hogan, and Vogler (2002)"
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,flavolimbatus,,,23,XXY,Complex XY,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,latus,,,23,,,Serrano and Galian (1998)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,obtusus,,,23,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,obtusus,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,pilisensis,,,23,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,pulchellus,,,23,XO,XO,Serrano and Yadav (1984)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,pulpani,,,23,XO,XO,Serrano and Yadav (1984)
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,quadristriatus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,articulatus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,assimilis,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,doris,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,fumigatus,,,24,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,maeulatus,,,,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
-Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,octomaculatus,,,23,XY,XY,"Serrano, J., 1981. Male achiasmatic meiosis in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trechus,quadristriatus,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,articulatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,assimilis,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,doris,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,fumigatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,maeulatus,Achiasmatic,Male,24,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
+Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trepanes,octomaculatus,Achiasmatic,Male,23,XY,XY,"Serrano, J., 1981. Male Achiasmatic in Caraboidea (Coleoptera, Adephaga). Genetica, 57(2), pp.131-137."
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trichocellus,godarti,,,39,XO,XO,Serrano and Galian (1998)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trichosternus,relictus,,,55,,,Galian and Moore (1994)
 Animalia,Insecta,Coleoptera,Adephaga,Carabidae,Trichosternus,vigorsi,,,45,XO,XO,Galian and Moore (1994)

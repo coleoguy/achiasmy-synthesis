@@ -1,0 +1,248 @@
+label,Kingdom,Class,Order,Family,Genus,Species,type_meiosis,Meiosis Type
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Eucyclops|serrulatus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Eucyclops,serrulatus,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Eucyclops|serrulatus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Eucyclops,serrulatus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Acanthocyclops|vernalis,Animalia,Copepoda,Cyclopoida,Cyclopidae,Acanthocyclops,vernalis,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Acanthocyclops|vernalis,Animalia,Copepoda,Cyclopoida,Cyclopidae,Acanthocyclops,vernalis,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Diacyclops|bicuspidatus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Diacyclops,bicuspidatus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Diacyclops|bicuspidatus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Diacyclops,bicuspidatus,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|albidus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,albidus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|albidus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,albidus,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|ater,Animalia,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,ater,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|ater,Animalia,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,ater,Distance pairing,Asynaptic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|ater,Animalia,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,ater,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|edax,Animalia,Copepoda,Cyclopoida,Cyclopidae,Mesocyclops,edax,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|edax,Animalia,Copepoda,Cyclopoida,Cyclopidae,Mesocyclops,edax,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|leuckarti,Animalia,Copepoda,Cyclopoida,Cyclopidae,Mesocyclops,leuckarti,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|leuckarti,Animalia,Copepoda,Cyclopoida,Cyclopidae,Mesocyclops,leuckarti,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Tropocyclops|prasinus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Tropocyclops,prasinus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Tropocyclops|prasinus,Animalia,Copepoda,Cyclopoida,Cyclopidae,Tropocyclops,prasinus,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Harpacticoida|Tigriopus|brevicornis,Animalia,Copepoda,Cyclopoida,Harpacticoida,Tigriopus,brevicornis,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Harpacticoida|Tigriopus|brevicornis,Animalia,Copepoda,Cyclopoida,Harpacticoida,Tigriopus,brevicornis,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Harpacticoida|Tigriopus|japonicus,Animalia,Copepoda,Cyclopoida,Harpacticoida,Tigriopus,japonicus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Harpacticoida|Tigriopus|japonicus,Animalia,Copepoda,Cyclopoida,Harpacticoida,Tigriopus,japonicus,Distance pairing,Achiasmatic
+Animalia|Maxillopoda|Cyclopoida|Harpacticoida|Tigriopus|japonicus,Animalia,Copepoda,Cyclopoida,Harpacticoida,Tigriopus,japonicus,Distance pairing,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Asaphidion|caraboides,Animalia,Insecta,Coleoptera,Carabidae,Asaphidion,caraboides,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Asaphidion|cyanicorne,Animalia,Insecta,Coleoptera,Carabidae,Asaphidion,cyanicorne,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Asaphidion|flavipes,Animalia,Insecta,Coleoptera,Carabidae,Asaphidion,flavipes,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Asaphidion|flavipes,Animalia,Insecta,Coleoptera,Carabidae,Asaphidion,flavipes,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Asaphidion|flavipes,Animalia,Insecta,Coleoptera,Carabidae,Asaphidion,flavipes,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Bembidion|quadripustulatum,Animalia,Insecta,Coleoptera,Carabidae,Bembidion,quadripustulatum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Egadroma|marginatum,Animalia,Insecta,Coleoptera,Carabidae,Egadroma,marginatum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Egadroma|marginatum,Animalia,Insecta,Coleoptera,Carabidae,Egadroma,marginatum,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Egadroma|marginatum,Animalia,Insecta,Coleoptera,Carabidae,Egadroma,marginatum,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Emphanes|minimus,Animalia,Insecta,Coleoptera,Carabidae,Emphanes,minimus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Emphanes|minimus,Animalia,Insecta,Coleoptera,Carabidae,Emphanes,minimus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Emphanes|rivularis,Animalia,Insecta,Coleoptera,Carabidae,Emphanes,rivularis,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Emphanes|tenellum,Animalia,Insecta,Coleoptera,Carabidae,Emphanes,tenellum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Metallina|ambiguum,Animalia,Insecta,Coleoptera,Carabidae,Metallina,ambiguum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Metallina|lampros,Animalia,Insecta,Coleoptera,Carabidae,Metallina,lampros,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Metallina|properans,Animalia,Insecta,Coleoptera,Carabidae,Metallina,properans,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Nepha|genei,Animalia,Insecta,Coleoptera,Carabidae,Nepha,genei,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Nepha|grisvardi,Animalia,Insecta,Coleoptera,Carabidae,Nepha,grisvardi,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Nepha|ibericum,Animalia,Insecta,Coleoptera,Carabidae,Nepha,ibericum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Nepha|laterale,Animalia,Insecta,Coleoptera,Carabidae,Nepha,laterale,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Notaphus|ephippius,Animalia,Insecta,Coleoptera,Carabidae,Notaphus,ephippius,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Notaphus|varius,Animalia,Insecta,Coleoptera,Carabidae,Notaphus,varius,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Notaphus|varius,Animalia,Insecta,Coleoptera,Carabidae,Notaphus,varius,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|andreae,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,andreae,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|atrocoeruleus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,atrocoeruleus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|coeruleus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,coeruleus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|decorus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,decorus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|dudichi,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,dudichi,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|fasciolatus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,fasciolatus,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|fasciolatus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,fasciolatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|femoratus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,femoratus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|femoratus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,femoratus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|hispanicus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,hispanicus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|hispanicus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,hispanicus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|ripicola,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,ripicola,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|stephensi,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,stephensi,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|stephensi,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,stephensi,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|tibialis,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,tibialis,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|tibialis,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,tibialis,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|tibialis,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,tibialis,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Ocydromus|ustulatus,Animalia,Insecta,Coleoptera,Carabidae,Ocydromus,ustulatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Odontium|striatum,Animalia,Insecta,Coleoptera,Carabidae,Odontium,striatum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Odontium|striatum,Animalia,Insecta,Coleoptera,Carabidae,Odontium,striatum,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Omoperyphus|hypocrita,Animalia,Insecta,Coleoptera,Carabidae,Omoperyphus,hypocrita,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Omoperyphus|hypocrita,Animalia,Insecta,Coleoptera,Carabidae,Omoperyphus,hypocrita,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Perileptus|areolatus,Animalia,Insecta,Coleoptera,Carabidae,Perileptus,areolatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|biguttatus,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,biguttatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|biguttatus,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,biguttatus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|guadarramense,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,guadarramense,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|guttula,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,guttula,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|iricolor,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,iricolor,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|vicinus,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,vicinus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Philochtus|vicinus,Animalia,Insecta,Coleoptera,Carabidae,Philochtus,vicinus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Pogonus|chalceus,Animalia,Insecta,Coleoptera,Carabidae,Pogonus,chalceus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Princidium|bipunctatum,Animalia,Insecta,Coleoptera,Carabidae,Princidium,bipunctatum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Princidium|paulinoi,Animalia,Insecta,Coleoptera,Carabidae,Princidium,paulinoi,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Princidium|punctulatum,Animalia,Insecta,Coleoptera,Carabidae,Princidium,punctulatum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Synechostictus|cribum,Animalia,Insecta,Coleoptera,Carabidae,Synechostictus,cribum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Synechostictus|cribum,Animalia,Insecta,Coleoptera,Carabidae,Synechostictus,cribum,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Synechostictus|dahli,Animalia,Insecta,Coleoptera,Carabidae,Synechostictus,dahli,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Synechostictus|dahli,Animalia,Insecta,Coleoptera,Carabidae,Synechostictus,dahli,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Testediolum|carpentanum,Animalia,Insecta,Coleoptera,Carabidae,Testediolum,carpentanum,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trechus|obtusus,Animalia,Insecta,Coleoptera,Carabidae,Trechus,obtusus,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Trechus|obtusus,Animalia,Insecta,Coleoptera,Carabidae,Trechus,obtusus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trechus|obtusus,Animalia,Insecta,Coleoptera,Carabidae,Trechus,obtusus,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Trechus|quadristriatus,Animalia,Insecta,Coleoptera,Carabidae,Trechus,quadristriatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|articulatus,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,articulatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|assimilis,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,assimilis,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|assimilis,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,assimilis,NA,Asynaptic
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|doris,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,doris,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|doris,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,doris,NA,Achiasmatic
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|fumigatus,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,fumigatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|maeulatus,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,maeulatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|octomaculatus,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,octomaculatus,NA,NA
+Animalia|Insecta|Coleoptera|Carabidae|Trepanes|octomaculatus,Animalia,Insecta,Coleoptera,Carabidae,Trepanes,octomaculatus,NA,Achiasmatic
+Animalia|Insecta|Diptera|Hippoboscidae|Hippobosca|camelina,Animalia,Insecta,Diptera,Hippoboscidae,Hippobosca,camelina,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Himacerus|apterus,Animalia,Insecta,Hemiptera,Nabidae,Himacerus,apterus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Himacerus|apterus,Animalia,Insecta,Hemiptera,Nabidae,Himacerus,apterus,Distance Pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Himacerus|maracandicus,Animalia,Insecta,Hemiptera,Nabidae,Himacerus,maracandicus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Himacerus|mirmicoides,Animalia,Insecta,Hemiptera,Nabidae,Himacerus,mirmicoides,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Hoplistoscelis|sordidus,Animalia,Insecta,Hemiptera,Nabidae,Hoplistoscelis,sordidus,Distance pairing,Asynaptic
+Animalia|Insecta|Hemiptera|Nabidae|Hoplistoscelis|sordidus,Animalia,Insecta,Hemiptera,Nabidae,Hoplistoscelis,sordidus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|rugosus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,rugosus,Distance pairing,Achiasmatic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|rugosus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,rugosus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|rugosus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,rugosus,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ericetorum,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ericetorum,Distance Pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ferus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ferus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ferus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ferus,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|indicus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,indicus,Distance pairing,Asynaptic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|indicus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,indicus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|limbatrus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,limbatrus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|meridionalis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,meridionalis,Distance pairing,Achiasmatic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|meridionalis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,meridionalis,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|meridionalis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,meridionalis,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pallidus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,pallidus,Distance pairing,Achiasmatic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pallidus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,pallidus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pallidus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,pallidus,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pseudoferus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,pseudoferus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|pseudoferus pseudoferus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,pseudoferus pseudoferus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|punctatus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,punctatus,Distance pairing,Asynaptic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|punctatus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,punctatus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|punctatus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,punctatus,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|reuteri,Animalia,Insecta,Hemiptera,Nabidae,Nabis,reuteri,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|reuteri,Animalia,Insecta,Hemiptera,Nabidae,Nabis,reuteri,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|sareptanus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,sareptanus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|sareptanus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,sareptanus,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|stenoferus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,stenoferus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|tesquorum,Animalia,Insecta,Hemiptera,Nabidae,Nabis,tesquorum,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|tesquorum,Animalia,Insecta,Hemiptera,Nabidae,Nabis,tesquorum,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ussuriensis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ussuriensis,Distance pairing,Achiasmatic
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ussuriensis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ussuriensis,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|ussuriensis,Animalia,Insecta,Hemiptera,Nabidae,Nabis,ussuriensis,Distance pairing,Distance Pairing
+Animalia|Insecta|Hemiptera|Nabidae|Nabis|viridulus,Animalia,Insecta,Hemiptera,Nabidae,Nabis,viridulus,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Pagasa|fusca,Animalia,Insecta,Hemiptera,Nabidae,Pagasa,fusca,Distance pairing,Asynaptic
+Animalia|Insecta|Hemiptera|Nabidae|Pagasa|fusca,Animalia,Insecta,Hemiptera,Nabidae,Pagasa,fusca,Distance pairing,Distance pairing
+Animalia|Insecta|Hemiptera|Nabidae|Pagasa|fusca,Animalia,Insecta,Hemiptera,Nabidae,Pagasa,fusca,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Ascalaphidae|Ascalohybris|subjacens,Animalia,Insecta,Neuroptera,Ascalaphidae,Ascalohybris,subjacens,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Ascalaphidae,Bubopsis,hamatus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Ascalaphidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Ascalaphidae,Bubopsis,hamatus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Ascalaphidae,Bubopsis,hamatus,Distance pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|G1yptobasis|dentifera,Animalia,Insecta,Neuroptera,Ascalaphidae,G1yptobasis,dentifera,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Libelloides|coccajus,Animalia,Insecta,Neuroptera,Ascalaphidae,Libelloides,coccajus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Libelloides|corsicus,Animalia,Insecta,Neuroptera,Ascalaphidae,Libelloides,corsicus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Libelloides|longicornis,Animalia,Insecta,Neuroptera,Ascalaphidae,Libelloides,longicornis,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Ascalaphidae|Libelloides|longicornis,Animalia,Insecta,Neuroptera,Ascalaphidae,Libelloides,longicornis,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Ascalaphidae|Libelloides|longicornis,Animalia,Insecta,Neuroptera,Ascalaphidae,Libelloides,longicornis,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Ascalaphidae|Ogcogaster|segmentator,Animalia,Insecta,Neuroptera,Ascalaphidae,Ogcogaster,segmentator,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Hemerobiidae|Hemerobius|marginatus,Animalia,Insecta,Neuroptera,Hemerobiidae,Hemerobius,marginatus,Distance Pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Hemerobiidae|Hemerobius|marginatus,Animalia,Insecta,Neuroptera,Hemerobiidae,Hemerobius,marginatus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Mantispidae|Entanoneura|phthisica,Animalia,Insecta,Neuroptera,Mantispidae,Entanoneura,phthisica,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Mantispidae|Mantispa|pulchella,Animalia,Insecta,Neuroptera,Mantispidae,Mantispa,pulchella,Distance Pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Mantispidae|Mantispa|pulchella,Animalia,Insecta,Neuroptera,Mantispidae,Mantispa,pulchella,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Mantispidae|Mantispa|viridis,Animalia,Insecta,Neuroptera,Mantispidae,Mantispa,viridis,Distance Pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Mantispidae|Mantispa|viridis,Animalia,Insecta,Neuroptera,Mantispidae,Mantispa,viridis,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Baliga|micans,Animalia,Insecta,Neuroptera,Myrmeleontidae,Baliga,micans,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Baliga|micans,Animalia,Insecta,Neuroptera,Myrmeleontidae,Baliga,micans,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Baliga|sagax,Animalia,Insecta,Neuroptera,Myrmeleontidae,Baliga,sagax,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Baliga|sagax,Animalia,Insecta,Neuroptera,Myrmeleontidae,Baliga,sagax,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Brachynemurus|hubbardi,Animalia,Insecta,Neuroptera,Myrmeleontidae,Brachynemurus,hubbardi,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Brachynemurus|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Brachynemurus,mexicanus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Brachynemurus|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Brachynemurus,mexicanus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Brachynemurus|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Brachynemurus,mexicanus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Centroclisis|brachygaster,Animalia,Insecta,Neuroptera,Myrmeleontidae,Centroclisis,brachygaster,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Clathroneuria|coquilletti,Animalia,Insecta,Neuroptera,Myrmeleontidae,Clathroneuria,coquilletti,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Clathroneuria|coquilletti,Animalia,Insecta,Neuroptera,Myrmeleontidae,Clathroneuria,coquilletti,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Clathroneuria|schwarzi,Animalia,Insecta,Neuroptera,Myrmeleontidae,Clathroneuria,schwarzi,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Clathroneuria|schwarzi,Animalia,Insecta,Neuroptera,Myrmeleontidae,Clathroneuria,schwarzi,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Creoleon|lugdunensis,Animalia,Insecta,Neuroptera,Myrmeleontidae,Creoleon,lugdunensis,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Dendroleon|jezoensis,Animalia,Insecta,Neuroptera,Myrmeleontidae,Dendroleon,jezoensis,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Distoleon|tetragrammicus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Distoleon,tetragrammicus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Distoleon|tetragrammicus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Distoleon,tetragrammicus,Distance pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Epacanthaclisis|moiwanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Epacanthaclisis,moiwanus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Euroleon|nostras,Animalia,Insecta,Neuroptera,Myrmeleontidae,Euroleon,nostras,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Indopalpares|pardus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Indopalpares,pardus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|appendiculatus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,appendiculatus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|appendiculatus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,appendiculatus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|bilineatus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,bilineatus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|bilineatus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,bilineatus,Distance pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,sp.,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,sp.,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Macronemurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Macronemurus,sp.,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmecaelurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmecaelurus,sp.,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmecaelurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmecaelurus,sp.,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmecaelurus|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmecaelurus,sp.,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmecaelurus|trigrammus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmecaelurus,trigrammus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|alcestris,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,alcestris,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|californicus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,californicus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|californicus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,californicus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|californicus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,californicus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|exitialis,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,exitialis,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|formicarius,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,formicarius,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|formicarius,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,formicarius,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|hyalinus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,hyalinus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|immaculatus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,immaculatus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,mexicanus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,mexicanus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|mexicanus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,mexicanus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|obscurus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,obscurus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|obscurus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,obscurus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Myrmeleon|obscurus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Myrmeleon,obscurus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Neuroleon|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Neuroleon,sp.,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Neuroleon|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Neuroleon,sp.,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Neuroleon|sp.,Animalia,Insecta,Neuroptera,Myrmeleontidae,Neuroleon,sp.,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Palpares|libelluloides,Animalia,Insecta,Neuroptera,Myrmeleontidae,Palpares,libelluloides,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Palpares|sobrinus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Palpares,sobrinus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Palparidius|concinnus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Palparidius,concinnus,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Palparidius|concinnus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Palparidius,concinnus,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Palparidius|concinnus,Animalia,Insecta,Neuroptera,Myrmeleontidae,Palparidius,concinnus,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Scotoleon|dissimilis,Animalia,Insecta,Neuroptera,Myrmeleontidae,Scotoleon,dissimilis,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Scotoleon|dissimilis,Animalia,Insecta,Neuroptera,Myrmeleontidae,Scotoleon,dissimilis,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Scotoleon|niger,Animalia,Insecta,Neuroptera,Myrmeleontidae,Scotoleon,niger,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Scotoleon|niger,Animalia,Insecta,Neuroptera,Myrmeleontidae,Scotoleon,niger,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Scotoleon|nigrilabris,Animalia,Insecta,Neuroptera,Myrmeleontidae,Scotoleon,nigrilabris,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Synclisis|japonica,Animalia,Insecta,Neuroptera,Myrmeleontidae,Synclisis,japonica,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Vella|fallax,Animalia,Insecta,Neuroptera,Myrmeleontidae,Vella,fallax,Distance pairing,Asynaptic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Vella|fallax,Animalia,Insecta,Neuroptera,Myrmeleontidae,Vella,fallax,Distance pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmeleontidae|Vella|fallax,Animalia,Insecta,Neuroptera,Myrmeleontidae,Vella,fallax,Distance pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Myrmelontidae,Bubopsis,hamatus,Distance Pairing,Achiasmatic
+Animalia|Insecta|Neuroptera|Myrmelontidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Myrmelontidae,Bubopsis,hamatus,Distance Pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Bubopsis|hamatus,Animalia,Insecta,Neuroptera,Myrmelontidae,Bubopsis,hamatus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Distoleon|tetragrammicus,Animalia,Insecta,Neuroptera,Myrmelontidae,Distoleon,tetragrammicus,Distance Pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Distoleon|tetragrammicus,Animalia,Insecta,Neuroptera,Myrmelontidae,Distoleon,tetragrammicus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Macronemurus|bilineatus,Animalia,Insecta,Neuroptera,Myrmelontidae,Macronemurus,bilineatus,Distance Pairing,Distance pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Macronemurus|bilineatus,Animalia,Insecta,Neuroptera,Myrmelontidae,Macronemurus,bilineatus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Myrmelontidae|Myrmecaelurus|trigammus,Animalia,Insecta,Neuroptera,Myrmelontidae,Myrmecaelurus,trigammus,Distance Pairing,Distance Pairing
+Animalia|Insecta|Neuroptera|Osmylidae|Plethosmylus (updated genus: Osmylus)|decoratus,Animalia,Insecta,Neuroptera,Osmylidae,Plethosmylus (updated genus: Osmylus),decoratus,Distance Pairing,Distance Pairing
+Animalia|Malacostraca|Amphipoda|Anisogammaridae|Anisogammarus|annandalei,Animalia,Malacostraca,Amphipoda,Anisogammaridae,Anisogammarus,annandalei,NA,NA
+Animalia|Malacostraca|Decapoda|Grapsidae|Pachygrapsus|crassipes,Animalia,Malacostraca,Decapoda,Grapsidae,Pachygrapsus,crassipes,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Munididae|Cervimunida|princeps,Animalia,Malacostraca,Decapoda,Munididae,Cervimunida,princeps,Distance pairing,Achiasmatic
+Animalia|Malacostraca|Decapoda|Munididae|Cervimunida|princeps,Animalia,Malacostraca,Decapoda,Munididae,Cervimunida,princeps,Distance pairing,Asynaptic
+Animalia|Malacostraca|Decapoda|Munididae|Cervimunida|princeps,Animalia,Malacostraca,Decapoda,Munididae,Cervimunida,princeps,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Plagusiidae|Plagusia|dentipes,Animalia,Malacostraca,Decapoda,Plagusiidae,Plagusia,dentipes,Distance pairing,Asynaptic
+Animalia|Malacostraca|Decapoda|Plagusiidae|Plagusia|dentipes,Animalia,Malacostraca,Decapoda,Plagusiidae,Plagusia,dentipes,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Varunidae|Eriocheir|japonicus,Animalia,Malacostraca,Decapoda,Varunidae,Eriocheir,japonicus,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Varunidae|Eriocheir|japonicus,Animalia,Malacostraca,Decapoda,Varunidae,Eriocheir,japonicus,Distance pairing,Achiasmatic
+Animalia|Malacostraca|Decapoda|Varunidae|Eriocheir|japonicus,Animalia,Malacostraca,Decapoda,Varunidae,Eriocheir,japonicus,Distance pairing,Asynaptic
+Animalia|Malacostraca|Decapoda|Varunidae|Gaetice|depressus,Animalia,Malacostraca,Decapoda,Varunidae,Gaetice,depressus,Distance pairing,Asynaptic
+Animalia|Malacostraca|Decapoda|Varunidae|Gaetice|depressus,Animalia,Malacostraca,Decapoda,Varunidae,Gaetice,depressus,Distance pairing,Achiasmatic
+Animalia|Malacostraca|Decapoda|Varunidae|Gaetice|depressus,Animalia,Malacostraca,Decapoda,Varunidae,Gaetice,depressus,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Varunidae|Hemigrapsus|penicillatus,Animalia,Malacostraca,Decapoda,Varunidae,Hemigrapsus,penicillatus,Distance pairing,Distance pairing
+Animalia|Malacostraca|Decapoda|Varunidae|Hemigrapsus|sanguineus,Animalia,Malacostraca,Decapoda,Varunidae,Hemigrapsus,sanguineus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|furcifer,Animalia,Maxillopoda,Cyclopoida,Cyclopidae,Cyclops,furcifer,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|strenuus divulsus,Animalia,Maxillopoda,Cyclopoida,Cyclopidae,Cyclops,strenuus divulsus,Distance pairing,Distance pairing
+Animalia|Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|strenuus strenuus,Animalia,Maxillopoda,Cyclopoida,Cyclopidae,Cyclops,strenuus strenuus,Distance pairing,Distance pairing
+Kingdom|Class|Order|Family|Genus|Species,Kingdom,Class,Order,Family,Genus,Species,Meiosis Type,Meiosis Type
