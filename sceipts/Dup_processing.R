@@ -1,6 +1,6 @@
 # Sean Chien 
 # Checking data 
-dat <- read.csv("../data/Achiasmy_full_meiosis_data.csv")
+dat <- read.csv("Achiasmy_full_meiosis_data.csv")
 
 # remove space before and after genus and species
 cols <- 1:11
@@ -28,7 +28,11 @@ for (i in 1:length(all.sp)){
     }
   }
 }
+<<<<<<< HEAD
 # write.csv(diff_results, "../data/different_rows.csv", row.names = FALSE)
+=======
+write.csv(diff_results, "different_rows.csv", row.names = FALSE)
+>>>>>>> parent of 4b40860 (script)
 
 #### Duplication ####
 dup <- 0
