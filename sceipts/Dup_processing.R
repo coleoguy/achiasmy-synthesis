@@ -189,6 +189,9 @@ for (i in 1:length(all.sp)) {
 
 
 #### Type 3 #### 
+dat <- read_xlsx('../data/Achiasmy_full_meiosis_data.xlsx')
+dat$Sci_name <- paste(dat$Genus,dat$Species,sep = '_')
+all.sp <- unique(paste(dat$Genus,dat$Species,sep = '_'))
 # data with conflict 
 need.check.count <- 0
 conflict_list <- list()
@@ -225,5 +228,4 @@ for (i in 1:length(all.sp)) {
 # combine after loop
 conflict_dat <- do.call(rbind, conflict_list)
 rownames(conflict_dat) <- NULL
-
-write.xlsx(conflict_dat, "Type3_conflicts.xlsx")
+# write_xlsx(conflict_dat, "../data/Type3_conflicts.xlsx")
