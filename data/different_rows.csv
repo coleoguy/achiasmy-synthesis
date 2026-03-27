@@ -1,7 +1,7 @@
-"Kingdom","Class","Order","Family","Genus","Species"
-"Animalia","Gastropoda","Littorinimorpha","Bithyniidae","Bithynia","leachi"
-"Animalia","Mollusca","Littorinida","Bithyniidae","Bithynia","leachi"
-"Animalia","Gastropoda","Littorinimorpha","Bithyniidae","Bithynia","tentaculata"
-"Animalia","Mollusca","Littorinida","Bithyniidae","Bithynia","tentaculata"
-"Animalia","Insecta","Neuroptera","Ascalaphidae","Bubopsis","hamatus"
-"Animalia","Insecta","Neuroptera","Myrmeleontidae","Bubopsis","hamatus"
+Kingdom,Class,Order,Family,Genus,Species
+Animalia,Gastropoda,Littorinimorpha,Bithyniidae,Bithynia,leachi
+Animalia,Mollusca,Littorinida,Bithyniidae,Bithynia,leachi
+Animalia,Gastropoda,Littorinimorpha,Bithyniidae,Bithynia,tentaculata
+Animalia,Mollusca,Littorinida,Bithyniidae,Bithynia,tentaculata
+Animalia,Insecta,Neuroptera,Ascalaphidae,Bubopsis,hamatus
+Animalia,Insecta,Neuroptera,Myrmeleontidae,Bubopsis,hamatus
